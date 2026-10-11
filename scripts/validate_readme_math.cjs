@@ -9,14 +9,17 @@ const {SVG} = require(path.join(dependency, 'output/svg.js'));
 const {liteAdaptor} = require(path.join(dependency, 'adaptors/liteAdaptor.js'));
 const {RegisterHTMLHandler} = require(path.join(dependency, 'handlers/html.js'));
 require(path.join(dependency, 'input/tex/AllPackages.js'));
-const {AllPackages} = require(path.join(dependency, 'input/tex/AllPackages.js'));
 const adaptor = liteAdaptor();
 RegisterHTMLHandler(adaptor);
 const document = mathjax.document('', {
-  InputJax: new TeX({packages: AllPackages, tags: 'ams', formatError: (_jax, error) => {throw error;}}),
+  InputJax: new TeX({packages: ['base', 'ams'], tags: 'ams', formatError: (_jax, error) => {throw error;}}),
   OutputJax: new SVG({fontCache: 'none'}),
 });
 const markdown = fs.readFileSync(path.join(root, 'README.md'), 'utf8');
+// MathJax alone does not reproduce GitHub's server-side macro filter.
+const blocked = /\\(operatorname|DeclareMathOperator|newcommand|renewcommand|def)\b/g;
+const filtered = [...markdown.matchAll(blocked)].map(match => match[1]);
+if (filtered.length) throw new Error(`Filtered math macros: ${filtered.join(', ')}`);
 const blocks = [...markdown.matchAll(/```math\r?\n([\s\S]*?)\r?\n```/g)];
 const inline = [...markdown.matchAll(/\$`([^`\r\n]+)`\$/g)];
 const formulas = [...blocks.map(m => ({tex:m[1], display:true})),

@@ -26,7 +26,7 @@
 
 ```math
 0<P_i<1,\quad 0.05\leq I_i\leq3,\quad A_i\geq0.1,
-\quad0\leq\operatorname{age}_i\leq60\text{ min},
+\quad0\leq\mathrm{age}_i\leq60\text{ min},
 \quad0.90\leq S_t/K_i\leq1.10. \tag{1}
 ```
 
@@ -54,7 +54,7 @@ J_t=\frac{|r_n|}{\max(s_{r,30},10^{-10})}. \tag{4}
 ```
 
 ```math
-I_t=\operatorname{median}_{i\in\mathcal C_t}I_{t,i},\qquad
+I_t=\mathrm{median}_{i\in\mathcal C_t}I_{t,i},\qquad
 \tau_t=\frac{\text{expiry}_t-\text{decision}_t}{24\text{ h}}. \tag{5}
 ```
 
@@ -111,7 +111,7 @@ e_s=Y_s-\hat\mu_s,\qquad h_s=\max(e_s^2,10^{-10}). \tag{12}
 
 ```math
 g_t(u)=\gamma_{t,0}+\gamma_t^\top u,\qquad
-\tilde g_t(u)=\operatorname{clip}(g_t(u),-30,5). \tag{13}
+\tilde g_t(u)=\mathrm{clip}(g_t(u),-30,5). \tag{13}
 ```
 
 指数还原校准及方差预测为
@@ -122,7 +122,7 @@ c_t=\frac1{|\mathcal E_t|}\sum_{s\in\mathcal E_t}h_s e^{-\tilde g_t(u_s)}, \tag{
 
 ```math
 v_t^{raw}=c_te^{\tilde g_t(u_t)},\qquad
-v_t=\operatorname{clip}(v_t^{raw},10^{-6},0.04),\qquad \sigma_t=\sqrt{v_t}. \tag{15}
+v_t=\mathrm{clip}(v_t^{raw},10^{-6},0.04),\qquad \sigma_t=\sqrt{v_t}. \tag{15}
 ```
 
 该方法将条件预测误差二阶矩作为分布方差的近似。$`\sigma_t`$ 对应决策至到期的持有期，输入的 $`RV`$ 和 $`I`$ 为年化量。
@@ -140,11 +140,11 @@ D_t=S_te^{\mu_t+\sigma_t Z},\quad Z\sim\mathcal N(0,1). \tag{16}
 
 ```math
 E[D_t\mid\mathcal F_t]=S_te^{\mu_t+v_t/2},\qquad
-\operatorname{Median}(D_t\mid\mathcal F_t)=S_te^{\mu_t}, \tag{17}
+\mathrm{Median}(D_t\mid\mathcal F_t)=S_te^{\mu_t}, \tag{17}
 ```
 
 ```math
-\operatorname{Var}(D_t\mid\mathcal F_t)=S_t^2e^{2\mu_t+v_t}(e^{v_t}-1). \tag{18}
+\mathrm{Var}(D_t\mid\mathcal F_t)=S_t^2e^{2\mu_t+v_t}(e^{v_t}-1). \tag{18}
 ```
 
 95% 预测区间为
@@ -194,7 +194,7 @@ f_i=\min(0.0003,0.125P_i),\qquad p_i^{eff}=0.95P_i-f_i,
 
 ```math
 \Sigma_{ij}=E[H_iH_j]-E[H_i]E[H_j],\qquad
-\operatorname{Var}(\Pi_t\mid\mathcal F_t)=q_t^\top\Sigma_tq_t. \tag{25}
+\mathrm{Var}(\Pi_t\mid\mathcal F_t)=q_t^\top\Sigma_tq_t. \tag{25}
 ```
 
 实现采用 128 节点 Gauss--Hermite 积分。令 $`(x_k,\tilde w_k)`$ 为节点和权重、$`w_k=\tilde w_k/\sqrt\pi`$：
@@ -260,7 +260,7 @@ q_t^*=\arg\max_q\left[\alpha_t^\top q-\lambda_\Sigma q^\top\Sigma_tq
 -\lambda_R\sum_i(R_{t,i}q_i)^2\right]. \tag{34}
 ```
 
-$`\lambda_\Sigma`$ 为协方差惩罚，$`\lambda_R`$ 为压力风险惩罚，数值采用 BTC 单位约定。令 $`Q=\lambda_\Sigma\Sigma+\lambda_R\operatorname{diag}(R_i^2)`$。在省略约束且 $`Q`$ 可逆时，一阶条件给出 $`q=Q^{-1}\alpha/2`$；实际配置求解完整约束问题。
+$`\lambda_\Sigma`$ 为协方差惩罚，$`\lambda_R`$ 为压力风险惩罚，数值采用 BTC 单位约定。令 $`Q=\lambda_\Sigma\Sigma+\lambda_R\mathrm{diag}(R_i^2)`$。在省略约束且 $`Q`$ 可逆时，一阶条件给出 $`q=Q^{-1}\alpha/2`$；实际配置求解完整约束问题。
 
 ### 8.2 硬约束
 
@@ -393,7 +393,7 @@ g={}&-11.9119452191-0.129114223731RV_7+1.62705077587RV_{30}\\
 
 ```math
 c=5.122779836848,\qquad
-v=\operatorname{clip}(c\exp[\operatorname{clip}(g,-30,5)],10^{-6},0.04). \tag{47}
+v=\mathrm{clip}(c\exp[\mathrm{clip}(g,-30,5)],10^{-6},0.04). \tag{47}
 ```
 
 式 (45)--(47) 是最终数据截面的研究摘要，历史评价使用各自决策时点的参数。持有期恒为 40 小时，到期天数因子为常数，其最终斜率为 0。完整精度保存在 `final_formula.json`，历史参数保存在 `coefficients.csv`。
