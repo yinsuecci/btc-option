@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712505481004,
+  "usIn": 1791712505475053,
+  "usDiff": 5951,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 145,
+        "trade_id": "269856270",
+        "timestamp": 1699070582840,
+        "tick_direction": 1,
+        "price": 0.005,
+        "mark_price": 0.00522488,
+        "iv": 21.08,
+        "instrument_name": "BTC-5NOV23-34750-P",
+        "index_price": 34717.06,
+        "direction": "buy",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

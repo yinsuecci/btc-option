@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712415474389,
+  "usIn": 1791712415465813,
+  "usDiff": 8576,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 2723,
+        "trade_id": "221697159",
+        "timestamp": 1656734419863,
+        "tick_direction": 2,
+        "price": 0.0105,
+        "mark_price": 0.01004912,
+        "iv": 75.67,
+        "instrument_name": "BTC-29JUL22-25000-C",
+        "index_price": 19108.77,
+        "direction": "buy",
+        "amount": 2.2
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712477866165,
+  "usIn": 1791712477860520,
+  "usDiff": 5645,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 278,
+        "trade_id": "256758541",
+        "timestamp": 1685764828499,
+        "tick_direction": 3,
+        "price": 0.0035,
+        "mark_price": 0.00330484,
+        "iv": 42.7,
+        "instrument_name": "BTC-16JUN23-24500-P",
+        "index_price": 27154.81,
+        "direction": "buy",
+        "amount": 1.0
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

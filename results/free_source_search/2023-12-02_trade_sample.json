@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712510377440,
+  "usIn": 1791712510370042,
+  "usDiff": 7398,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 247,
+        "trade_id": "273392812",
+        "timestamp": 1701493210118,
+        "tick_direction": 1,
+        "price": 0.0065,
+        "mark_price": 0.00650327,
+        "iv": 23.74,
+        "instrument_name": "BTC-3DEC23-38750-C",
+        "index_price": 38830.52,
+        "direction": "buy",
+        "amount": 0.2
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

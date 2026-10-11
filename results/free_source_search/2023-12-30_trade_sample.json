@@ -1,0 +1,26 @@
+{
+  "usOut": 1791712515626184,
+  "usIn": 1791712515617778,
+  "usDiff": 8406,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 34,
+        "trade_id": "277239679",
+        "timestamp": 1703912426764,
+        "tick_direction": 2,
+        "price": 0.0025,
+        "mark_price": 0.00274353,
+        "iv": 37.25,
+        "instrument_name": "BTC-1JAN24-43250-C",
+        "index_price": 41984.74,
+        "direction": "buy",
+        "contracts": 1.0,
+        "amount": 1.0
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712492542318,
+  "usIn": 1791712492532087,
+  "usDiff": 10231,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 148,
+        "trade_id": "263552160",
+        "timestamp": 1693022408225,
+        "tick_direction": 2,
+        "price": 0.0017,
+        "mark_price": 0.00319695,
+        "iv": 12.99,
+        "instrument_name": "BTC-27AUG23-26000-P",
+        "index_price": 26072.49,
+        "direction": "sell",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

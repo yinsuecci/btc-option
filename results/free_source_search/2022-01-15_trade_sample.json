@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712385818155,
+  "usIn": 1791712385813180,
+  "usDiff": 4975,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 136,
+        "trade_id": "199121159",
+        "timestamp": 1642223003803,
+        "tick_direction": 3,
+        "price": 0.0025,
+        "mark_price": 0.00297603,
+        "iv": 49.96,
+        "instrument_name": "BTC-21JAN22-47000-C",
+        "index_price": 42920.33,
+        "direction": "sell",
+        "amount": 0.5
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

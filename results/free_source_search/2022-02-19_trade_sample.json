@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712392041726,
+  "usIn": 1791712392033247,
+  "usDiff": 8479,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 414,
+        "trade_id": "203911107",
+        "timestamp": 1645246839454,
+        "tick_direction": 3,
+        "price": 0.001,
+        "mark_price": 0.00130115,
+        "iv": 42.89,
+        "instrument_name": "BTC-19FEB22-40000-P",
+        "index_price": 40244.14,
+        "direction": "sell",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

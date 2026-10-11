@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712449710377,
+  "usIn": 1791712449703350,
+  "usDiff": 7027,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 594,
+        "trade_id": "238245252",
+        "timestamp": 1671858318510,
+        "tick_direction": 3,
+        "price": 0.0005,
+        "mark_price": 9.902e-05,
+        "iv": 140.7,
+        "instrument_name": "BTC-30DEC22-11000-P",
+        "index_price": 16826.48,
+        "direction": "buy",
+        "amount": 1.0
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

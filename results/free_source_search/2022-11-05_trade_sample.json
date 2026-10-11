@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712441056924,
+  "usIn": 1791712441048435,
+  "usDiff": 8489,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 100,
+        "trade_id": "233704291",
+        "timestamp": 1667620966946,
+        "tick_direction": 2,
+        "price": 0.0015,
+        "mark_price": 0.0020426,
+        "iv": 39.8,
+        "instrument_name": "BTC-6NOV22-22000-C",
+        "index_price": 21453.15,
+        "direction": "sell",
+        "amount": 0.3
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

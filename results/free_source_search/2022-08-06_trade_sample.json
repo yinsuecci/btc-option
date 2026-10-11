@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712424782857,
+  "usIn": 1791712424774914,
+  "usDiff": 7943,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 293,
+        "trade_id": "225929916",
+        "timestamp": 1659758543105,
+        "tick_direction": 2,
+        "price": 0.0005,
+        "mark_price": 0.00064864,
+        "iv": 50.38,
+        "instrument_name": "BTC-6AUG22-23500-C",
+        "index_price": 23176.08,
+        "direction": "sell",
+        "amount": 0.2
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

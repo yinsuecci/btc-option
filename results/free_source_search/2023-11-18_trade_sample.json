@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712507961380,
+  "usIn": 1791712507953673,
+  "usDiff": 7707,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 24,
+        "trade_id": "271828544",
+        "timestamp": 1700283602129,
+        "tick_direction": 2,
+        "price": 0.046,
+        "mark_price": 0.04592103,
+        "iv": 47.98,
+        "instrument_name": "BTC-8DEC23-36500-C",
+        "index_price": 36395.86,
+        "direction": "buy",
+        "amount": 0.6
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

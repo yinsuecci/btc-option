@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712409141602,
+  "usIn": 1791712409133532,
+  "usDiff": 8070,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 1003,
+        "trade_id": "215970881",
+        "timestamp": 1653710412212,
+        "tick_direction": 3,
+        "price": 0.007,
+        "mark_price": 0.00726269,
+        "iv": 94.01,
+        "instrument_name": "BTC-3JUN22-25000-P",
+        "index_price": 28790.3,
+        "direction": "sell",
+        "amount": 0.2
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

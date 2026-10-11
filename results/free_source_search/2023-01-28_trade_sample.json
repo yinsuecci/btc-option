@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712455788241,
+  "usIn": 1791712455780413,
+  "usDiff": 7828,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 482,
+        "trade_id": "240334364",
+        "timestamp": 1674882001857,
+        "tick_direction": 2,
+        "price": 0.0085,
+        "mark_price": 0.00897138,
+        "iv": 54.67,
+        "instrument_name": "BTC-3FEB23-24500-C",
+        "index_price": 23099.34,
+        "direction": "sell",
+        "amount": 0.5
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

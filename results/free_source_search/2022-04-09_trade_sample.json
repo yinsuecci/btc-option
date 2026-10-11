@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712400666346,
+  "usIn": 1791712400659644,
+  "usDiff": 6702,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 1414,
+        "trade_id": "209663049",
+        "timestamp": 1649476807544,
+        "tick_direction": 2,
+        "price": 0.0265,
+        "mark_price": 0.02690269,
+        "iv": 53.05,
+        "instrument_name": "BTC-29APR22-45000-C",
+        "index_price": 42407.26,
+        "direction": "sell",
+        "amount": 2.5
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

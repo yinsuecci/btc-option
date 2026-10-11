@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712403061537,
+  "usIn": 1791712403053877,
+  "usDiff": 7660,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 77,
+        "trade_id": "210856483",
+        "timestamp": 1650686613290,
+        "tick_direction": 2,
+        "price": 0.0015,
+        "mark_price": 0.00188298,
+        "iv": 54.55,
+        "instrument_name": "BTC-24APR22-38000-P",
+        "index_price": 39503.73,
+        "direction": "sell",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

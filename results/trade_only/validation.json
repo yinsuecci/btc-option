@@ -1,0 +1,2044 @@
+{
+  "status": "PASS",
+  "check_count": 781,
+  "checks": [
+    "complete_window_2022-01-01",
+    "bounded_prints_2022-01-01",
+    "unique_prints_2022-01-01",
+    "complete_window_2022-01-08",
+    "bounded_prints_2022-01-08",
+    "unique_prints_2022-01-08",
+    "complete_window_2022-01-15",
+    "bounded_prints_2022-01-15",
+    "unique_prints_2022-01-15",
+    "complete_window_2022-01-22",
+    "bounded_prints_2022-01-22",
+    "unique_prints_2022-01-22",
+    "complete_window_2022-01-29",
+    "bounded_prints_2022-01-29",
+    "unique_prints_2022-01-29",
+    "complete_window_2022-02-05",
+    "bounded_prints_2022-02-05",
+    "unique_prints_2022-02-05",
+    "complete_window_2022-02-12",
+    "bounded_prints_2022-02-12",
+    "unique_prints_2022-02-12",
+    "complete_window_2022-02-19",
+    "bounded_prints_2022-02-19",
+    "unique_prints_2022-02-19",
+    "complete_window_2022-02-26",
+    "bounded_prints_2022-02-26",
+    "unique_prints_2022-02-26",
+    "complete_window_2022-03-05",
+    "bounded_prints_2022-03-05",
+    "unique_prints_2022-03-05",
+    "complete_window_2022-03-12",
+    "bounded_prints_2022-03-12",
+    "unique_prints_2022-03-12",
+    "complete_window_2022-03-19",
+    "bounded_prints_2022-03-19",
+    "unique_prints_2022-03-19",
+    "complete_window_2022-03-26",
+    "bounded_prints_2022-03-26",
+    "unique_prints_2022-03-26",
+    "complete_window_2022-04-02",
+    "bounded_prints_2022-04-02",
+    "unique_prints_2022-04-02",
+    "complete_window_2022-04-09",
+    "bounded_prints_2022-04-09",
+    "unique_prints_2022-04-09",
+    "complete_window_2022-04-16",
+    "bounded_prints_2022-04-16",
+    "unique_prints_2022-04-16",
+    "complete_window_2022-04-23",
+    "bounded_prints_2022-04-23",
+    "unique_prints_2022-04-23",
+    "complete_window_2022-04-30",
+    "bounded_prints_2022-04-30",
+    "unique_prints_2022-04-30",
+    "complete_window_2022-05-07",
+    "bounded_prints_2022-05-07",
+    "unique_prints_2022-05-07",
+    "complete_window_2022-05-14",
+    "bounded_prints_2022-05-14",
+    "unique_prints_2022-05-14",
+    "complete_window_2022-05-21",
+    "bounded_prints_2022-05-21",
+    "unique_prints_2022-05-21",
+    "complete_window_2022-05-28",
+    "bounded_prints_2022-05-28",
+    "unique_prints_2022-05-28",
+    "complete_window_2022-06-04",
+    "bounded_prints_2022-06-04",
+    "unique_prints_2022-06-04",
+    "complete_window_2022-06-11",
+    "bounded_prints_2022-06-11",
+    "unique_prints_2022-06-11",
+    "complete_window_2022-06-18",
+    "bounded_prints_2022-06-18",
+    "unique_prints_2022-06-18",
+    "complete_window_2022-06-25",
+    "bounded_prints_2022-06-25",
+    "unique_prints_2022-06-25",
+    "complete_window_2022-07-02",
+    "bounded_prints_2022-07-02",
+    "unique_prints_2022-07-02",
+    "complete_window_2022-07-09",
+    "bounded_prints_2022-07-09",
+    "unique_prints_2022-07-09",
+    "complete_window_2022-07-16",
+    "bounded_prints_2022-07-16",
+    "unique_prints_2022-07-16",
+    "complete_window_2022-07-23",
+    "bounded_prints_2022-07-23",
+    "unique_prints_2022-07-23",
+    "complete_window_2022-07-30",
+    "bounded_prints_2022-07-30",
+    "unique_prints_2022-07-30",
+    "complete_window_2022-08-06",
+    "bounded_prints_2022-08-06",
+    "unique_prints_2022-08-06",
+    "complete_window_2022-08-13",
+    "bounded_prints_2022-08-13",
+    "unique_prints_2022-08-13",
+    "complete_window_2022-08-20",
+    "bounded_prints_2022-08-20",
+    "unique_prints_2022-08-20",
+    "complete_window_2022-08-27",
+    "bounded_prints_2022-08-27",
+    "unique_prints_2022-08-27",
+    "complete_window_2022-09-03",
+    "bounded_prints_2022-09-03",
+    "unique_prints_2022-09-03",
+    "complete_window_2022-09-10",
+    "bounded_prints_2022-09-10",
+    "unique_prints_2022-09-10",
+    "complete_window_2022-09-17",
+    "bounded_prints_2022-09-17",
+    "unique_prints_2022-09-17",
+    "complete_window_2022-09-24",
+    "bounded_prints_2022-09-24",
+    "unique_prints_2022-09-24",
+    "complete_window_2022-10-01",
+    "bounded_prints_2022-10-01",
+    "unique_prints_2022-10-01",
+    "complete_window_2022-10-08",
+    "bounded_prints_2022-10-08",
+    "unique_prints_2022-10-08",
+    "complete_window_2022-10-15",
+    "bounded_prints_2022-10-15",
+    "unique_prints_2022-10-15",
+    "complete_window_2022-10-22",
+    "bounded_prints_2022-10-22",
+    "unique_prints_2022-10-22",
+    "complete_window_2022-10-29",
+    "bounded_prints_2022-10-29",
+    "unique_prints_2022-10-29",
+    "complete_window_2022-11-05",
+    "bounded_prints_2022-11-05",
+    "unique_prints_2022-11-05",
+    "complete_window_2022-11-12",
+    "bounded_prints_2022-11-12",
+    "unique_prints_2022-11-12",
+    "complete_window_2022-11-19",
+    "bounded_prints_2022-11-19",
+    "unique_prints_2022-11-19",
+    "complete_window_2022-11-26",
+    "bounded_prints_2022-11-26",
+    "unique_prints_2022-11-26",
+    "complete_window_2022-12-03",
+    "bounded_prints_2022-12-03",
+    "unique_prints_2022-12-03",
+    "complete_window_2022-12-10",
+    "bounded_prints_2022-12-10",
+    "unique_prints_2022-12-10",
+    "complete_window_2022-12-17",
+    "bounded_prints_2022-12-17",
+    "unique_prints_2022-12-17",
+    "complete_window_2022-12-24",
+    "bounded_prints_2022-12-24",
+    "unique_prints_2022-12-24",
+    "complete_window_2022-12-31",
+    "bounded_prints_2022-12-31",
+    "unique_prints_2022-12-31",
+    "complete_window_2023-01-07",
+    "bounded_prints_2023-01-07",
+    "unique_prints_2023-01-07",
+    "complete_window_2023-01-14",
+    "bounded_prints_2023-01-14",
+    "unique_prints_2023-01-14",
+    "complete_window_2023-01-21",
+    "bounded_prints_2023-01-21",
+    "unique_prints_2023-01-21",
+    "complete_window_2023-01-28",
+    "bounded_prints_2023-01-28",
+    "unique_prints_2023-01-28",
+    "complete_window_2023-02-04",
+    "bounded_prints_2023-02-04",
+    "unique_prints_2023-02-04",
+    "complete_window_2023-02-11",
+    "bounded_prints_2023-02-11",
+    "unique_prints_2023-02-11",
+    "complete_window_2023-02-18",
+    "bounded_prints_2023-02-18",
+    "unique_prints_2023-02-18",
+    "complete_window_2023-02-25",
+    "bounded_prints_2023-02-25",
+    "unique_prints_2023-02-25",
+    "complete_window_2023-03-04",
+    "bounded_prints_2023-03-04",
+    "unique_prints_2023-03-04",
+    "complete_window_2023-03-11",
+    "bounded_prints_2023-03-11",
+    "unique_prints_2023-03-11",
+    "complete_window_2023-03-18",
+    "bounded_prints_2023-03-18",
+    "unique_prints_2023-03-18",
+    "complete_window_2023-03-25",
+    "bounded_prints_2023-03-25",
+    "unique_prints_2023-03-25",
+    "complete_window_2023-04-01",
+    "bounded_prints_2023-04-01",
+    "unique_prints_2023-04-01",
+    "complete_window_2023-04-08",
+    "bounded_prints_2023-04-08",
+    "unique_prints_2023-04-08",
+    "complete_window_2023-04-15",
+    "bounded_prints_2023-04-15",
+    "unique_prints_2023-04-15",
+    "complete_window_2023-04-22",
+    "bounded_prints_2023-04-22",
+    "unique_prints_2023-04-22",
+    "complete_window_2023-04-29",
+    "bounded_prints_2023-04-29",
+    "unique_prints_2023-04-29",
+    "complete_window_2023-05-06",
+    "bounded_prints_2023-05-06",
+    "unique_prints_2023-05-06",
+    "complete_window_2023-05-13",
+    "bounded_prints_2023-05-13",
+    "unique_prints_2023-05-13",
+    "complete_window_2023-05-20",
+    "bounded_prints_2023-05-20",
+    "unique_prints_2023-05-20",
+    "complete_window_2023-05-27",
+    "bounded_prints_2023-05-27",
+    "unique_prints_2023-05-27",
+    "complete_window_2023-06-03",
+    "bounded_prints_2023-06-03",
+    "unique_prints_2023-06-03",
+    "complete_window_2023-06-10",
+    "bounded_prints_2023-06-10",
+    "unique_prints_2023-06-10",
+    "complete_window_2023-06-17",
+    "bounded_prints_2023-06-17",
+    "unique_prints_2023-06-17",
+    "complete_window_2023-06-24",
+    "bounded_prints_2023-06-24",
+    "unique_prints_2023-06-24",
+    "complete_window_2023-07-01",
+    "bounded_prints_2023-07-01",
+    "unique_prints_2023-07-01",
+    "complete_window_2023-07-08",
+    "bounded_prints_2023-07-08",
+    "unique_prints_2023-07-08",
+    "complete_window_2023-07-15",
+    "bounded_prints_2023-07-15",
+    "unique_prints_2023-07-15",
+    "complete_window_2023-07-22",
+    "bounded_prints_2023-07-22",
+    "unique_prints_2023-07-22",
+    "complete_window_2023-07-29",
+    "bounded_prints_2023-07-29",
+    "unique_prints_2023-07-29",
+    "complete_window_2023-08-05",
+    "bounded_prints_2023-08-05",
+    "unique_prints_2023-08-05",
+    "complete_window_2023-08-12",
+    "bounded_prints_2023-08-12",
+    "unique_prints_2023-08-12",
+    "complete_window_2023-08-19",
+    "bounded_prints_2023-08-19",
+    "unique_prints_2023-08-19",
+    "complete_window_2023-08-26",
+    "bounded_prints_2023-08-26",
+    "unique_prints_2023-08-26",
+    "complete_window_2023-09-02",
+    "bounded_prints_2023-09-02",
+    "unique_prints_2023-09-02",
+    "complete_window_2023-09-09",
+    "bounded_prints_2023-09-09",
+    "unique_prints_2023-09-09",
+    "complete_window_2023-09-16",
+    "bounded_prints_2023-09-16",
+    "unique_prints_2023-09-16",
+    "complete_window_2023-09-23",
+    "bounded_prints_2023-09-23",
+    "unique_prints_2023-09-23",
+    "complete_window_2023-09-30",
+    "bounded_prints_2023-09-30",
+    "unique_prints_2023-09-30",
+    "complete_window_2023-10-07",
+    "bounded_prints_2023-10-07",
+    "unique_prints_2023-10-07",
+    "complete_window_2023-10-14",
+    "bounded_prints_2023-10-14",
+    "unique_prints_2023-10-14",
+    "complete_window_2023-10-21",
+    "bounded_prints_2023-10-21",
+    "unique_prints_2023-10-21",
+    "complete_window_2023-10-28",
+    "bounded_prints_2023-10-28",
+    "unique_prints_2023-10-28",
+    "complete_window_2023-11-04",
+    "bounded_prints_2023-11-04",
+    "unique_prints_2023-11-04",
+    "complete_window_2023-11-11",
+    "bounded_prints_2023-11-11",
+    "unique_prints_2023-11-11",
+    "complete_window_2023-11-18",
+    "bounded_prints_2023-11-18",
+    "unique_prints_2023-11-18",
+    "complete_window_2023-11-25",
+    "bounded_prints_2023-11-25",
+    "unique_prints_2023-11-25",
+    "complete_window_2023-12-02",
+    "bounded_prints_2023-12-02",
+    "unique_prints_2023-12-02",
+    "complete_window_2023-12-09",
+    "bounded_prints_2023-12-09",
+    "unique_prints_2023-12-09",
+    "complete_window_2023-12-16",
+    "bounded_prints_2023-12-16",
+    "unique_prints_2023-12-16",
+    "complete_window_2023-12-23",
+    "bounded_prints_2023-12-23",
+    "unique_prints_2023-12-23",
+    "complete_window_2023-12-30",
+    "bounded_prints_2023-12-30",
+    "unique_prints_2023-12-30",
+    "complete_window_2024-01-06",
+    "bounded_prints_2024-01-06",
+    "unique_prints_2024-01-06",
+    "complete_window_2024-01-13",
+    "bounded_prints_2024-01-13",
+    "unique_prints_2024-01-13",
+    "complete_window_2024-01-20",
+    "bounded_prints_2024-01-20",
+    "unique_prints_2024-01-20",
+    "complete_window_2024-01-27",
+    "bounded_prints_2024-01-27",
+    "unique_prints_2024-01-27",
+    "complete_window_2024-02-03",
+    "bounded_prints_2024-02-03",
+    "unique_prints_2024-02-03",
+    "complete_window_2024-02-10",
+    "bounded_prints_2024-02-10",
+    "unique_prints_2024-02-10",
+    "complete_window_2024-02-17",
+    "bounded_prints_2024-02-17",
+    "unique_prints_2024-02-17",
+    "complete_window_2024-02-24",
+    "bounded_prints_2024-02-24",
+    "unique_prints_2024-02-24",
+    "complete_window_2024-03-02",
+    "bounded_prints_2024-03-02",
+    "unique_prints_2024-03-02",
+    "complete_window_2024-03-09",
+    "bounded_prints_2024-03-09",
+    "unique_prints_2024-03-09",
+    "complete_window_2024-03-16",
+    "bounded_prints_2024-03-16",
+    "unique_prints_2024-03-16",
+    "complete_window_2024-03-23",
+    "bounded_prints_2024-03-23",
+    "unique_prints_2024-03-23",
+    "complete_window_2024-03-30",
+    "bounded_prints_2024-03-30",
+    "unique_prints_2024-03-30",
+    "complete_window_2024-04-06",
+    "bounded_prints_2024-04-06",
+    "unique_prints_2024-04-06",
+    "complete_window_2024-04-13",
+    "bounded_prints_2024-04-13",
+    "unique_prints_2024-04-13",
+    "complete_window_2024-04-20",
+    "bounded_prints_2024-04-20",
+    "unique_prints_2024-04-20",
+    "complete_window_2024-04-27",
+    "bounded_prints_2024-04-27",
+    "unique_prints_2024-04-27",
+    "complete_window_2024-05-04",
+    "bounded_prints_2024-05-04",
+    "unique_prints_2024-05-04",
+    "complete_window_2024-05-11",
+    "bounded_prints_2024-05-11",
+    "unique_prints_2024-05-11",
+    "complete_window_2024-05-18",
+    "bounded_prints_2024-05-18",
+    "unique_prints_2024-05-18",
+    "complete_window_2024-05-25",
+    "bounded_prints_2024-05-25",
+    "unique_prints_2024-05-25",
+    "complete_window_2024-06-01",
+    "bounded_prints_2024-06-01",
+    "unique_prints_2024-06-01",
+    "complete_window_2024-06-08",
+    "bounded_prints_2024-06-08",
+    "unique_prints_2024-06-08",
+    "complete_window_2024-06-15",
+    "bounded_prints_2024-06-15",
+    "unique_prints_2024-06-15",
+    "complete_window_2024-06-22",
+    "bounded_prints_2024-06-22",
+    "unique_prints_2024-06-22",
+    "complete_window_2024-06-29",
+    "bounded_prints_2024-06-29",
+    "unique_prints_2024-06-29",
+    "complete_window_2024-07-06",
+    "bounded_prints_2024-07-06",
+    "unique_prints_2024-07-06",
+    "complete_window_2024-07-13",
+    "bounded_prints_2024-07-13",
+    "unique_prints_2024-07-13",
+    "complete_window_2024-07-20",
+    "bounded_prints_2024-07-20",
+    "unique_prints_2024-07-20",
+    "complete_window_2024-07-27",
+    "bounded_prints_2024-07-27",
+    "unique_prints_2024-07-27",
+    "complete_window_2024-08-03",
+    "bounded_prints_2024-08-03",
+    "unique_prints_2024-08-03",
+    "complete_window_2024-08-10",
+    "bounded_prints_2024-08-10",
+    "unique_prints_2024-08-10",
+    "complete_window_2024-08-17",
+    "bounded_prints_2024-08-17",
+    "unique_prints_2024-08-17",
+    "complete_window_2024-08-24",
+    "bounded_prints_2024-08-24",
+    "unique_prints_2024-08-24",
+    "complete_window_2024-08-31",
+    "bounded_prints_2024-08-31",
+    "unique_prints_2024-08-31",
+    "complete_window_2024-09-07",
+    "bounded_prints_2024-09-07",
+    "unique_prints_2024-09-07",
+    "complete_window_2024-09-14",
+    "bounded_prints_2024-09-14",
+    "unique_prints_2024-09-14",
+    "complete_window_2024-09-21",
+    "bounded_prints_2024-09-21",
+    "unique_prints_2024-09-21",
+    "complete_window_2024-09-28",
+    "bounded_prints_2024-09-28",
+    "unique_prints_2024-09-28",
+    "complete_window_2024-10-05",
+    "bounded_prints_2024-10-05",
+    "unique_prints_2024-10-05",
+    "complete_window_2024-10-12",
+    "bounded_prints_2024-10-12",
+    "unique_prints_2024-10-12",
+    "complete_window_2024-10-19",
+    "bounded_prints_2024-10-19",
+    "unique_prints_2024-10-19",
+    "complete_window_2024-10-26",
+    "bounded_prints_2024-10-26",
+    "unique_prints_2024-10-26",
+    "complete_window_2024-11-02",
+    "bounded_prints_2024-11-02",
+    "unique_prints_2024-11-02",
+    "complete_window_2024-11-09",
+    "bounded_prints_2024-11-09",
+    "unique_prints_2024-11-09",
+    "complete_window_2024-11-16",
+    "bounded_prints_2024-11-16",
+    "unique_prints_2024-11-16",
+    "complete_window_2024-11-23",
+    "bounded_prints_2024-11-23",
+    "unique_prints_2024-11-23",
+    "complete_window_2024-11-30",
+    "bounded_prints_2024-11-30",
+    "unique_prints_2024-11-30",
+    "complete_window_2024-12-07",
+    "bounded_prints_2024-12-07",
+    "unique_prints_2024-12-07",
+    "complete_window_2024-12-14",
+    "bounded_prints_2024-12-14",
+    "unique_prints_2024-12-14",
+    "complete_window_2024-12-21",
+    "bounded_prints_2024-12-21",
+    "unique_prints_2024-12-21",
+    "complete_window_2024-12-28",
+    "bounded_prints_2024-12-28",
+    "unique_prints_2024-12-28",
+    "complete_window_2025-01-04",
+    "bounded_prints_2025-01-04",
+    "unique_prints_2025-01-04",
+    "complete_window_2025-01-11",
+    "bounded_prints_2025-01-11",
+    "unique_prints_2025-01-11",
+    "complete_window_2025-01-18",
+    "bounded_prints_2025-01-18",
+    "unique_prints_2025-01-18",
+    "complete_window_2025-01-25",
+    "bounded_prints_2025-01-25",
+    "unique_prints_2025-01-25",
+    "complete_window_2025-02-01",
+    "bounded_prints_2025-02-01",
+    "unique_prints_2025-02-01",
+    "complete_window_2025-02-08",
+    "bounded_prints_2025-02-08",
+    "unique_prints_2025-02-08",
+    "complete_window_2025-02-15",
+    "bounded_prints_2025-02-15",
+    "unique_prints_2025-02-15",
+    "complete_window_2025-02-22",
+    "bounded_prints_2025-02-22",
+    "unique_prints_2025-02-22",
+    "complete_window_2025-03-01",
+    "bounded_prints_2025-03-01",
+    "unique_prints_2025-03-01",
+    "complete_window_2025-03-08",
+    "bounded_prints_2025-03-08",
+    "unique_prints_2025-03-08",
+    "complete_window_2025-03-15",
+    "bounded_prints_2025-03-15",
+    "unique_prints_2025-03-15",
+    "complete_window_2025-03-22",
+    "bounded_prints_2025-03-22",
+    "unique_prints_2025-03-22",
+    "complete_window_2025-03-29",
+    "bounded_prints_2025-03-29",
+    "unique_prints_2025-03-29",
+    "complete_window_2025-04-05",
+    "bounded_prints_2025-04-05",
+    "unique_prints_2025-04-05",
+    "complete_window_2025-04-12",
+    "bounded_prints_2025-04-12",
+    "unique_prints_2025-04-12",
+    "complete_window_2025-04-19",
+    "bounded_prints_2025-04-19",
+    "unique_prints_2025-04-19",
+    "complete_window_2025-04-26",
+    "bounded_prints_2025-04-26",
+    "unique_prints_2025-04-26",
+    "complete_window_2025-05-03",
+    "bounded_prints_2025-05-03",
+    "unique_prints_2025-05-03",
+    "complete_window_2025-05-10",
+    "bounded_prints_2025-05-10",
+    "unique_prints_2025-05-10",
+    "complete_window_2025-05-17",
+    "bounded_prints_2025-05-17",
+    "unique_prints_2025-05-17",
+    "complete_window_2025-05-24",
+    "bounded_prints_2025-05-24",
+    "unique_prints_2025-05-24",
+    "complete_window_2025-05-31",
+    "bounded_prints_2025-05-31",
+    "unique_prints_2025-05-31",
+    "complete_window_2025-06-07",
+    "bounded_prints_2025-06-07",
+    "unique_prints_2025-06-07",
+    "complete_window_2025-06-14",
+    "bounded_prints_2025-06-14",
+    "unique_prints_2025-06-14",
+    "complete_window_2025-06-21",
+    "bounded_prints_2025-06-21",
+    "unique_prints_2025-06-21",
+    "complete_window_2025-06-28",
+    "bounded_prints_2025-06-28",
+    "unique_prints_2025-06-28",
+    "complete_window_2025-07-05",
+    "bounded_prints_2025-07-05",
+    "unique_prints_2025-07-05",
+    "complete_window_2025-07-12",
+    "bounded_prints_2025-07-12",
+    "unique_prints_2025-07-12",
+    "complete_window_2025-07-19",
+    "bounded_prints_2025-07-19",
+    "unique_prints_2025-07-19",
+    "complete_window_2025-07-26",
+    "bounded_prints_2025-07-26",
+    "unique_prints_2025-07-26",
+    "complete_window_2025-08-02",
+    "bounded_prints_2025-08-02",
+    "unique_prints_2025-08-02",
+    "complete_window_2025-08-09",
+    "bounded_prints_2025-08-09",
+    "unique_prints_2025-08-09",
+    "complete_window_2025-08-16",
+    "bounded_prints_2025-08-16",
+    "unique_prints_2025-08-16",
+    "complete_window_2025-08-23",
+    "bounded_prints_2025-08-23",
+    "unique_prints_2025-08-23",
+    "complete_window_2025-08-30",
+    "bounded_prints_2025-08-30",
+    "unique_prints_2025-08-30",
+    "complete_window_2025-09-06",
+    "bounded_prints_2025-09-06",
+    "unique_prints_2025-09-06",
+    "complete_window_2025-09-13",
+    "bounded_prints_2025-09-13",
+    "unique_prints_2025-09-13",
+    "complete_window_2025-09-20",
+    "bounded_prints_2025-09-20",
+    "unique_prints_2025-09-20",
+    "complete_window_2025-09-27",
+    "bounded_prints_2025-09-27",
+    "unique_prints_2025-09-27",
+    "complete_window_2025-10-04",
+    "bounded_prints_2025-10-04",
+    "unique_prints_2025-10-04",
+    "complete_window_2025-10-11",
+    "bounded_prints_2025-10-11",
+    "unique_prints_2025-10-11",
+    "complete_window_2025-10-18",
+    "bounded_prints_2025-10-18",
+    "unique_prints_2025-10-18",
+    "complete_window_2025-10-25",
+    "bounded_prints_2025-10-25",
+    "unique_prints_2025-10-25",
+    "complete_window_2025-11-01",
+    "bounded_prints_2025-11-01",
+    "unique_prints_2025-11-01",
+    "complete_window_2025-11-08",
+    "bounded_prints_2025-11-08",
+    "unique_prints_2025-11-08",
+    "complete_window_2025-11-15",
+    "bounded_prints_2025-11-15",
+    "unique_prints_2025-11-15",
+    "complete_window_2025-11-22",
+    "bounded_prints_2025-11-22",
+    "unique_prints_2025-11-22",
+    "complete_window_2025-11-29",
+    "bounded_prints_2025-11-29",
+    "unique_prints_2025-11-29",
+    "complete_window_2025-12-06",
+    "bounded_prints_2025-12-06",
+    "unique_prints_2025-12-06",
+    "complete_window_2025-12-13",
+    "bounded_prints_2025-12-13",
+    "unique_prints_2025-12-13",
+    "complete_window_2025-12-20",
+    "bounded_prints_2025-12-20",
+    "unique_prints_2025-12-20",
+    "complete_window_2025-12-27",
+    "bounded_prints_2025-12-27",
+    "unique_prints_2025-12-27",
+    "complete_window_2026-01-03",
+    "bounded_prints_2026-01-03",
+    "unique_prints_2026-01-03",
+    "complete_window_2026-01-10",
+    "bounded_prints_2026-01-10",
+    "unique_prints_2026-01-10",
+    "complete_window_2026-01-17",
+    "bounded_prints_2026-01-17",
+    "unique_prints_2026-01-17",
+    "complete_window_2026-01-24",
+    "bounded_prints_2026-01-24",
+    "unique_prints_2026-01-24",
+    "complete_window_2026-01-31",
+    "bounded_prints_2026-01-31",
+    "unique_prints_2026-01-31",
+    "complete_window_2026-02-07",
+    "bounded_prints_2026-02-07",
+    "unique_prints_2026-02-07",
+    "complete_window_2026-02-14",
+    "bounded_prints_2026-02-14",
+    "unique_prints_2026-02-14",
+    "complete_window_2026-02-21",
+    "bounded_prints_2026-02-21",
+    "unique_prints_2026-02-21",
+    "complete_window_2026-02-28",
+    "bounded_prints_2026-02-28",
+    "unique_prints_2026-02-28",
+    "complete_window_2026-03-07",
+    "bounded_prints_2026-03-07",
+    "unique_prints_2026-03-07",
+    "complete_window_2026-03-14",
+    "bounded_prints_2026-03-14",
+    "unique_prints_2026-03-14",
+    "complete_window_2026-03-21",
+    "bounded_prints_2026-03-21",
+    "unique_prints_2026-03-21",
+    "complete_window_2026-03-28",
+    "bounded_prints_2026-03-28",
+    "unique_prints_2026-03-28",
+    "complete_window_2026-04-04",
+    "bounded_prints_2026-04-04",
+    "unique_prints_2026-04-04",
+    "complete_window_2026-04-11",
+    "bounded_prints_2026-04-11",
+    "unique_prints_2026-04-11",
+    "complete_window_2026-04-18",
+    "bounded_prints_2026-04-18",
+    "unique_prints_2026-04-18",
+    "complete_window_2026-04-25",
+    "bounded_prints_2026-04-25",
+    "unique_prints_2026-04-25",
+    "complete_window_2026-05-02",
+    "bounded_prints_2026-05-02",
+    "unique_prints_2026-05-02",
+    "complete_window_2026-05-09",
+    "bounded_prints_2026-05-09",
+    "unique_prints_2026-05-09",
+    "complete_window_2026-05-16",
+    "bounded_prints_2026-05-16",
+    "unique_prints_2026-05-16",
+    "complete_window_2026-05-23",
+    "bounded_prints_2026-05-23",
+    "unique_prints_2026-05-23",
+    "complete_window_2026-05-30",
+    "bounded_prints_2026-05-30",
+    "unique_prints_2026-05-30",
+    "complete_window_2026-06-06",
+    "bounded_prints_2026-06-06",
+    "unique_prints_2026-06-06",
+    "complete_window_2026-06-13",
+    "bounded_prints_2026-06-13",
+    "unique_prints_2026-06-13",
+    "complete_window_2026-06-20",
+    "bounded_prints_2026-06-20",
+    "unique_prints_2026-06-20",
+    "complete_window_2026-06-27",
+    "bounded_prints_2026-06-27",
+    "unique_prints_2026-06-27",
+    "complete_window_2026-07-04",
+    "bounded_prints_2026-07-04",
+    "unique_prints_2026-07-04",
+    "complete_window_2026-07-11",
+    "bounded_prints_2026-07-11",
+    "unique_prints_2026-07-11",
+    "complete_window_2026-07-18",
+    "bounded_prints_2026-07-18",
+    "unique_prints_2026-07-18",
+    "complete_window_2026-07-25",
+    "bounded_prints_2026-07-25",
+    "unique_prints_2026-07-25",
+    "complete_window_2026-08-01",
+    "bounded_prints_2026-08-01",
+    "unique_prints_2026-08-01",
+    "complete_window_2026-08-08",
+    "bounded_prints_2026-08-08",
+    "unique_prints_2026-08-08",
+    "complete_window_2026-08-15",
+    "bounded_prints_2026-08-15",
+    "unique_prints_2026-08-15",
+    "complete_window_2026-08-22",
+    "bounded_prints_2026-08-22",
+    "unique_prints_2026-08-22",
+    "complete_window_2026-08-29",
+    "bounded_prints_2026-08-29",
+    "unique_prints_2026-08-29",
+    "complete_window_2026-09-05",
+    "bounded_prints_2026-09-05",
+    "unique_prints_2026-09-05",
+    "complete_window_2026-09-12",
+    "bounded_prints_2026-09-12",
+    "unique_prints_2026-09-12",
+    "complete_window_2026-09-19",
+    "bounded_prints_2026-09-19",
+    "unique_prints_2026-09-19",
+    "complete_window_2026-09-26",
+    "bounded_prints_2026-09-26",
+    "unique_prints_2026-09-26",
+    "complete_window_2026-10-03",
+    "bounded_prints_2026-10-03",
+    "unique_prints_2026-10-03",
+    "complete_window_2026-10-10",
+    "bounded_prints_2026-10-10",
+    "unique_prints_2026-10-10",
+    "250_expired_weekends_audited",
+    "all_250_have_candidates",
+    "saturday_ET_12",
+    "sunday_ET_expiry",
+    "no_future_trade",
+    "no_future_daily_candle",
+    "60_minute_trade_age",
+    "all_labels_match_official_delivery",
+    "training_precedes_test",
+    "training_labels_mature",
+    "warmup_and_test_partition",
+    "26_valid_weekend_warmup",
+    "nonnegative_quantity",
+    "signed_omega",
+    "0_1_lot",
+    "leg_limit",
+    "past_size_proxy_limit",
+    "gross_quantity_limit",
+    "delta_constraint",
+    "vega_constraint",
+    "dynamic_margin_constraint",
+    "dynamic_stress_constraint",
+    "leg_cashflow_reconciliation",
+    "weekend_cashflow_reconciliation",
+    "event_cashflow_reconciliation",
+    "equity_reconciliation",
+    "formula_features",
+    "no_external_script_dependency",
+    "light_blue_theme",
+    "correct_optimizer_formula",
+    "formula_in_report"
+  ],
+  "real_raw_trade_rows": 74124,
+  "raw_weekends": 250,
+  "raw_files": [
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-01-01_trades.json.gz",
+      "sha256": "ece70567764fb2633069590fa9952f2b391a8097fe5782837706227ca283191d",
+      "rows": 198
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-01-08_trades.json.gz",
+      "sha256": "5a59b3225dcc001d14d51013f88b9aab56e7f778ff722510cffe13c0c312a37e",
+      "rows": 162
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-01-15_trades.json.gz",
+      "sha256": "26479a23940f342850da008de18ff4fe131bf2acde97935163ebe042547df1ed",
+      "rows": 89
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-01-22_trades.json.gz",
+      "sha256": "15dc6c6dc4793ccecea4180e1829f9e79714c5fc0019803fddd664670943c496",
+      "rows": 463
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-01-29_trades.json.gz",
+      "sha256": "7a996023528173cde86015c7f7cc2cb3754b3fc9902c1669c5cf5e0afe4e6d19",
+      "rows": 101
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-02-05_trades.json.gz",
+      "sha256": "fdc2219041d853ae5356997f99235aa224deee85c0bd50e224554c9c60b2bb3f",
+      "rows": 217
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-02-12_trades.json.gz",
+      "sha256": "d905ba56646f58e38a33e54630cd251f15dc76a6195f9e623bef4d45ca6fddb4",
+      "rows": 232
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-02-19_trades.json.gz",
+      "sha256": "952a1910095b7b9db285a1e802f27fcad14243781ac04eb123447d3e456cdf2d",
+      "rows": 367
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-02-26_trades.json.gz",
+      "sha256": "7d1734d4b0476ee39047c84ddc7e6ef7537a59de648a432c66686b720080c6c8",
+      "rows": 135
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-03-05_trades.json.gz",
+      "sha256": "dd869630c0b3c4e42e37440f6d5f1c2826449c8881042e829159ea77e4592161",
+      "rows": 235
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-03-12_trades.json.gz",
+      "sha256": "a2cb6e64b1dbc9db4904b70f9bd226db56f5667b7bb0acf1a34755f2fac6b563",
+      "rows": 157
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-03-19_trades.json.gz",
+      "sha256": "aa2167bbd69f54c03baa096fd255f189389917ef485bd9d3bd3a7b096d10645e",
+      "rows": 245
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-03-26_trades.json.gz",
+      "sha256": "98e29e69f8530aab71352123bad4449c34e762e11a617bae8965c7ee5823882e",
+      "rows": 245
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-04-02_trades.json.gz",
+      "sha256": "8db5c55117d43dc3df41f45769b5e622a06584a69fef27a91b5ae5b0d800e555",
+      "rows": 403
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-04-09_trades.json.gz",
+      "sha256": "f76440995da3d5a1d64a6165b46c9e02ec30f48c443d604be1e33ad5843408d3",
+      "rows": 219
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-04-16_trades.json.gz",
+      "sha256": "d042189e3a7b6730963588c3ffefd9b0939aa596338eced5753720142b11cceb",
+      "rows": 257
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-04-23_trades.json.gz",
+      "sha256": "b60ef32063bf135f9b03de3c3c42e25ff6ba494946f6fefaf84adb7adb4874a0",
+      "rows": 109
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-04-30_trades.json.gz",
+      "sha256": "f6b9f4370dcf14b7cd3df5d93321a04ce307e6a77c6cebe8f7a8b098aa0323c0",
+      "rows": 247
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-05-07_trades.json.gz",
+      "sha256": "500ba352a895d46f1b3acc13b858f2040a4f2a1e53955044756e858654db6448",
+      "rows": 90
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-05-14_trades.json.gz",
+      "sha256": "42c0daed4df7c22926e19ed44a0a5d3fee7e918b7cc9ecbf094d37bf469d1042",
+      "rows": 296
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-05-21_trades.json.gz",
+      "sha256": "7c4105ababe8a7c6cadba02fe7066d8768c0156c572c61681a7f401eaa3573b5",
+      "rows": 275
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-05-28_trades.json.gz",
+      "sha256": "aab511b4740fee0ca27038040ce9aad0f347b850ddd1ef2506cc40ca6734907f",
+      "rows": 136
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-06-04_trades.json.gz",
+      "sha256": "5a53208496f266998ffef5ab6f35bc911768b4bfd2c15a5458af1b8778b60585",
+      "rows": 136
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-06-11_trades.json.gz",
+      "sha256": "34aef216be554a1faec1032512f5ef5c326bb9354413bc5f78adc5c2389236e9",
+      "rows": 1153
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-06-18_trades.json.gz",
+      "sha256": "734d2b878434f56b55b55ae2c0824b2f74913f846a58bddec667a2e6f056bba7",
+      "rows": 378
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-06-25_trades.json.gz",
+      "sha256": "817dc2049e99de0058df344e533431e9a48b19abac9b8ec1048ecb9d75f85f65",
+      "rows": 296
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-07-02_trades.json.gz",
+      "sha256": "e270eded96a6762096e041f42a731ad79f342291f0e92652fb10858e602ca811",
+      "rows": 77
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-07-09_trades.json.gz",
+      "sha256": "9420cddcfbd7f52f1a2ae3c7a960d1207a82f0463f570f72f1ea26c849a67398",
+      "rows": 140
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-07-16_trades.json.gz",
+      "sha256": "852f4c1ffb61602cc8868056f98612ed52cab0ba9aa472b9f14edd2d46b0a4a1",
+      "rows": 284
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-07-23_trades.json.gz",
+      "sha256": "62c604922f5a7ff79ee0832a23954ee8af4be3826e8204fb65ece187075a7fb5",
+      "rows": 318
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-07-30_trades.json.gz",
+      "sha256": "88fdf262fe945656974d41c3a8d25d819684754ec0b2e74951dc8041cace43de",
+      "rows": 204
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-08-06_trades.json.gz",
+      "sha256": "b5a4f01a9740f83b40712f8fd9d676164789bd3b2c4c484519318a81602750bd",
+      "rows": 161
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-08-13_trades.json.gz",
+      "sha256": "6675cb8efae2ac1acc4a1b14bb1e932a61accadc1a270d5d02d7d0d7ffbe4704",
+      "rows": 96
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-08-20_trades.json.gz",
+      "sha256": "a9e9c57a6d5a494e6df385c7296d709727cb39a5101132c3e039e3d1f70db074",
+      "rows": 91
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-08-27_trades.json.gz",
+      "sha256": "a483ef94720fc08a4d6f272eb906eec8dc923c3286664cb650876183717a1144",
+      "rows": 929
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-09-03_trades.json.gz",
+      "sha256": "56b4777d180a4a1645ab4a9ed9bb4279cd2067617d4b20c5e871343ae685e9ce",
+      "rows": 117
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-09-10_trades.json.gz",
+      "sha256": "d9f910860f4333812e9d00c5b819e91750e128c100465677451975b18bf778ab",
+      "rows": 99
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-09-17_trades.json.gz",
+      "sha256": "aa31933746d1e5607d01ae2de93205c7f7c93be7dced4d63c48176a0f407d803",
+      "rows": 118
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-09-24_trades.json.gz",
+      "sha256": "18de5d88da18add8c4e57a74c00f749f99773b9cf1c915a8f6ac377542b2168e",
+      "rows": 685
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-10-01_trades.json.gz",
+      "sha256": "b63b66016d68f090e22a05dab1a49d5656da17d16194b16979e2319ffaa5cc9c",
+      "rows": 165
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-10-08_trades.json.gz",
+      "sha256": "c94e90a9c6bbcf53c4e898f01de8fce104b7d1e879ed1a126b48ef003dc85bb1",
+      "rows": 236
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-10-15_trades.json.gz",
+      "sha256": "8ab5b479cb83e4f0c229cd6ef3234a60968105a097c0f4800c96b334f3a536e9",
+      "rows": 74
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-10-22_trades.json.gz",
+      "sha256": "6f6c2dc958149403866fba547d6b9864de211357653228539281aa1ac9584a96",
+      "rows": 207
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-10-29_trades.json.gz",
+      "sha256": "79a8664e984cad5bfe885142b51a37781fec8cc0dace1b5971012f92e342f731",
+      "rows": 421
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-11-05_trades.json.gz",
+      "sha256": "cf87cca748200e63b4d5982cb6e4a0309544a7ad0cee5e704cc9c2a318bdb487",
+      "rows": 85
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-11-12_trades.json.gz",
+      "sha256": "07b82a8b1877566ba465018477ab61c3f3f4464fb2a49a40b2e2c8db57ca5ed8",
+      "rows": 241
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-11-19_trades.json.gz",
+      "sha256": "6d1601e8331cfd8fe9bc9ad80aa10c45a0872364518947311aefd1e997333b33",
+      "rows": 71
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-11-26_trades.json.gz",
+      "sha256": "9aa64cc857e07df71db567baedaa97b197fc0febfcc30d7f5b250b309c022f2d",
+      "rows": 162
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-12-03_trades.json.gz",
+      "sha256": "100b4f162bd55de4e0ad890dacf300e300f92541a13e62eb02944f6378aeb85a",
+      "rows": 89
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-12-10_trades.json.gz",
+      "sha256": "1faa5aa0c19c5ba9212c7664ead747f66a2b114ae5e4922ebeb1ca9de439a887",
+      "rows": 141
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-12-17_trades.json.gz",
+      "sha256": "7e6d333d882304cd4c3d4b79af766b03858f6e5bda0a83dc3d61732844b343e2",
+      "rows": 94
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-12-24_trades.json.gz",
+      "sha256": "ef113f946c6429a15da15a8ab45d89b168649f0312bbbe3f20a127b2aa835ab6",
+      "rows": 54
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2022-12-31_trades.json.gz",
+      "sha256": "3d80eaa88afee7045f9d245fa53093c90cdc5ae9c48292e2fe2126cb35108fbc",
+      "rows": 158
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-01-07_trades.json.gz",
+      "sha256": "b5278e66cb9598dd58073dfc09818713c52d99cb820cb5a6f4d1d8548110b873",
+      "rows": 100
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-01-14_trades.json.gz",
+      "sha256": "3b153d4622777042a8de4be73bcb93f7434260d477b595096c1380485feccfbb",
+      "rows": 776
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-01-21_trades.json.gz",
+      "sha256": "8ea7960bbea95a89c44fc859abfc21261784a6c77bf003b34d9c13c985846ab3",
+      "rows": 525
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-01-28_trades.json.gz",
+      "sha256": "0634d32fb2efa5735b6b197752593c8552d70ada6f014c74abae0ae7cb32bdeb",
+      "rows": 72
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-02-04_trades.json.gz",
+      "sha256": "b8c42f032cc98c0e67c69872a75f88939e2d2892dda05fbb98ef7b395b28ac84",
+      "rows": 81
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-02-11_trades.json.gz",
+      "sha256": "7257cbb15770aad56a2f174c04bfdc583049af7f66f86a9e2f75cbd6e7b80beb",
+      "rows": 91
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-02-18_trades.json.gz",
+      "sha256": "0c53d61363c60e10ea324275e6d3ca3c69b7c2e7520eb8d06a609000c04ecb34",
+      "rows": 84
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-02-25_trades.json.gz",
+      "sha256": "d4a3e230cdfd6a5f5d696780b6b8d2085a7a50cc0c61cf1d3905c7f31c8bb88d",
+      "rows": 113
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-03-04_trades.json.gz",
+      "sha256": "e3d886d4e49e766a6c2e1e1f8673d12a93c7725461f6f05718a467fae3e4c513",
+      "rows": 99
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-03-11_trades.json.gz",
+      "sha256": "19432c897b46c85098e48554df9d135ecc0cd8f7bc324b20c12d3c3348049225",
+      "rows": 519
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-03-18_trades.json.gz",
+      "sha256": "66602cad0aa1e39b679c332935769189382313441574826a00ebe954aff3df65",
+      "rows": 462
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-03-25_trades.json.gz",
+      "sha256": "eb3fdb8c610c655feaf05eda52096fcd15971a98ecd141e99ff3d18316ec605f",
+      "rows": 317
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-04-01_trades.json.gz",
+      "sha256": "07826e891f087b0663912f165503d8272a2a08e96710e7a8dfbea41fd38428b6",
+      "rows": 222
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-04-08_trades.json.gz",
+      "sha256": "1a867717551cf0f5af8c0cf1a772d2ac89b48858510ffcb5b6d99e32a017d067",
+      "rows": 165
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-04-15_trades.json.gz",
+      "sha256": "f64cb6c2ac13d8b313702d76c47924095dee9a32dc60bb6216fd46379e597805",
+      "rows": 163
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-04-22_trades.json.gz",
+      "sha256": "21411d4496de9aac1b33e15f01fa4ebc83f4c10650ede82cc1ab205fc05005eb",
+      "rows": 268
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-04-29_trades.json.gz",
+      "sha256": "67c2f391cddd3c03d1a294df43e7b8d5c77e2366b24558f1e36cbd8a09ef8e60",
+      "rows": 50
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-05-06_trades.json.gz",
+      "sha256": "7276743c758a09d3e9ee59c3971a43f453b3945a4c59739ce3e9e252bfa7dd3a",
+      "rows": 326
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-05-13_trades.json.gz",
+      "sha256": "df72f8d39675a429646069c8d6e0df370b5e092a2a10fb08af3a28e603a74101",
+      "rows": 63
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-05-20_trades.json.gz",
+      "sha256": "4b63f848b6ff8b58040018f234e7a65422a52796d9c4928bc7677c6715852e22",
+      "rows": 213
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-05-27_trades.json.gz",
+      "sha256": "57418c494c9586964d954a1ba16b66466e401dfca09b7808794da7714ca486f0",
+      "rows": 152
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-06-03_trades.json.gz",
+      "sha256": "7df2bc235f5aff5570b71347e8281657c057e8101013e3de4b8646a9b268970e",
+      "rows": 228
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-06-10_trades.json.gz",
+      "sha256": "480a5639adb9e161c6d0b8e92d10d9d1ae4b2afacb0532695998c1bb688cfbd3",
+      "rows": 106
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-06-17_trades.json.gz",
+      "sha256": "9558367073a4cd4786dd9c4a35b6eae774ebffcee085115dee63075acd53f5d0",
+      "rows": 335
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-06-24_trades.json.gz",
+      "sha256": "3a3e2b6b6c418b5d810034a724ccd101fc55b28bee95dacb039eb1c3ebd6c042",
+      "rows": 881
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-07-01_trades.json.gz",
+      "sha256": "38f4aed14d6bf422d88157d1307ad81f63afeac96614a9b167d2ec1ffdce605c",
+      "rows": 95
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-07-08_trades.json.gz",
+      "sha256": "fa761ee8a9d9bba4512df8a3e2a4b0a6fe80de61bda108273bb0b6ccdf2cb04e",
+      "rows": 101
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-07-15_trades.json.gz",
+      "sha256": "7b4539047b4dd2ccd5bc59fc9737b5eb93b98c8ae7ee1f31f8c2e5eab0bebd0c",
+      "rows": 249
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-07-22_trades.json.gz",
+      "sha256": "57d065b8bec34c7047623ff88e014cdbbe1385789be5e3d1f3a128d75f27c52e",
+      "rows": 119
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-07-29_trades.json.gz",
+      "sha256": "bef71e1157d453b5e75dc35b4e7e7b3006e68aeb0deacee4fa3eba763b3048bf",
+      "rows": 52
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-08-05_trades.json.gz",
+      "sha256": "bfbaeda9a406481bc265154c1f8c5b7ab10dde880df5cacef69575a0d1a560b8",
+      "rows": 126
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-08-12_trades.json.gz",
+      "sha256": "1f65810b6eaa2ef1ddc8f19f79efe045f3f7454ab1a99d15e2347ef33a84255a",
+      "rows": 216
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-08-19_trades.json.gz",
+      "sha256": "090085355924d2c296ec2214d8110c64f93a01f3740d67491f884281096d4bde",
+      "rows": 513
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-08-26_trades.json.gz",
+      "sha256": "8c10a964bed50b3e993c3ffc472c06cea367aefd00ee8652ee8906bfab0f13f7",
+      "rows": 118
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-09-02_trades.json.gz",
+      "sha256": "b5d484433aa503e3dfc34310b4809da12d46fdaf3ea16de90d692609f09f1dc1",
+      "rows": 227
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-09-09_trades.json.gz",
+      "sha256": "9b2c3e6ffa44cbe4e462ab72668057fec4488a4b8cbdee5d721efefda04efca1",
+      "rows": 273
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-09-16_trades.json.gz",
+      "sha256": "58769638b13691f2140c6918fcfaee7cc7c1718482392b2e5e665faa969170c1",
+      "rows": 104
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-09-23_trades.json.gz",
+      "sha256": "f24c5fcfd36508618e15222ad2aa1e986ea10fe8649847bafda7bb6fd9499db6",
+      "rows": 90
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-09-30_trades.json.gz",
+      "sha256": "4c5ff8acc1541579ffe81178ad966eeced0f492942453db201ee2d70156cc9d2",
+      "rows": 291
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-10-07_trades.json.gz",
+      "sha256": "3cf94a3393ab2f511010db71a6f463a71ba835e9a7afb86b0cd16dee73acfbcf",
+      "rows": 218
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-10-14_trades.json.gz",
+      "sha256": "dbb0d02d65c4dcc883d0e43fe9d1f9694180ea17d9def84b99690e6d3e0a5ea6",
+      "rows": 139
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-10-21_trades.json.gz",
+      "sha256": "630cb5c6e93658fcd83a90f32676f75f45da79377f59454d00757626cbef8455",
+      "rows": 833
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-10-28_trades.json.gz",
+      "sha256": "bc81b499db9f3f7f67e0a45c6f9bf24cd1e8a210fe510a8bbf96829f2538f820",
+      "rows": 194
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-11-04_trades.json.gz",
+      "sha256": "c1332ef0b61b96419c6739650e7301179bdeb49b94409fed8755629111f0e9f9",
+      "rows": 243
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-11-11_trades.json.gz",
+      "sha256": "c5c6a003489986e85e33c173234be0025afc85c8ca45c88473117e7afbf1cc0c",
+      "rows": 267
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-11-18_trades.json.gz",
+      "sha256": "a8d09376c61385cab5cceeb4c2f6e95b7b400db070390d048133013d9250e6da",
+      "rows": 649
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-11-25_trades.json.gz",
+      "sha256": "c0efcce93b689adda47af77da677bf98dad696693fab03c52079ffa75c623dbe",
+      "rows": 225
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-12-02_trades.json.gz",
+      "sha256": "434c987ce149806bf2b4a6e45aae02369476ff9950f77024d3d6fde3718f09a2",
+      "rows": 161
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-12-09_trades.json.gz",
+      "sha256": "74a5970d50092c5ecbdb471ec27557b17bbd1a61a5fd63b77db573dc333d4384",
+      "rows": 262
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-12-16_trades.json.gz",
+      "sha256": "96226c30d5cc1a69a9bb01049cc70d3c29d65b37a0104eb6bbcedbfe57b31e62",
+      "rows": 417
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-12-23_trades.json.gz",
+      "sha256": "3a41c74e88131b9a4cdd74c2bda6fc6fbdeddf5e46eeccec8bc8da3205281ae5",
+      "rows": 332
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2023-12-30_trades.json.gz",
+      "sha256": "572e3d00327dec3309b313e2799b98bdebbf3d2daee271acb5470a91e4320b97",
+      "rows": 580
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-01-06_trades.json.gz",
+      "sha256": "cb21a0973c0a47e55ffbcfbad0e6cdd2dc7187db6e20f715c426a6843ee2cf8f",
+      "rows": 401
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-01-13_trades.json.gz",
+      "sha256": "e4b11748a43e7c62e9b1abfcfac57c75180f7dd61837dd50093a42b4873c2322",
+      "rows": 423
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-01-20_trades.json.gz",
+      "sha256": "d2b9237250e81a59a44e574acfdac49b4f278e53a0c26087d58564dac008de96",
+      "rows": 129
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-01-27_trades.json.gz",
+      "sha256": "ce7607d8a9dc47cbb6f3a7aa9cc45a9c2fec602b0c059c3c07fcc602bd358b7f",
+      "rows": 160
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-02-03_trades.json.gz",
+      "sha256": "8219ef99870281bb01b5fbc564ead1ffc2685ed78b08a91dc3524a5956f630d0",
+      "rows": 106
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-02-10_trades.json.gz",
+      "sha256": "164412c6e7f8af83d295fe9856faf20f50fec56641b8b69638ccbe687a279ae9",
+      "rows": 244
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-02-17_trades.json.gz",
+      "sha256": "896f223b1d193fda6b9ea3a9f5cc04392132f8c5c873bb872e511c50a681042d",
+      "rows": 253
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-02-24_trades.json.gz",
+      "sha256": "33aa7c95724739af49c872385f1c74e88473410421f8bc9ddf7f77dbf4ad4305",
+      "rows": 222
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-03-02_trades.json.gz",
+      "sha256": "7e2d267e39406ea7aeda707c015854133793e70e0dadf57dde871c137994267c",
+      "rows": 374
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-03-09_trades.json.gz",
+      "sha256": "5b3f16aee45f65a9ec15af84d5f61a19918b0ccdfaad7b545639b7755879ee44",
+      "rows": 496
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-03-16_trades.json.gz",
+      "sha256": "9205417d44bd3aa0775acdd146e4cba0e30cb5b4d765f8107756cf04337d91b0",
+      "rows": 399
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-03-23_trades.json.gz",
+      "sha256": "c1a5c0e7115fe92c029df7d06683f1c4b764fd5f3fb2d271a4bc0f6c4697608f",
+      "rows": 261
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-03-30_trades.json.gz",
+      "sha256": "7f961e4e967fab1c107c3f6df77ce1acf2821be71cb17584244ad6627cd7cea7",
+      "rows": 320
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-04-06_trades.json.gz",
+      "sha256": "faa7e04ef83cd8d16c9d695511a3296a731e706ae529b7004e7313bc9b6f6f80",
+      "rows": 370
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-04-13_trades.json.gz",
+      "sha256": "ac39126061b13e54aabcfa96aad604bb8190c70ecd80a7482f07ebd95ac9e314",
+      "rows": 474
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-04-20_trades.json.gz",
+      "sha256": "5b71e122a44451be57ffebfa72f0869dc705f0221c7680534dc1e99ed305a3e7",
+      "rows": 715
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-04-27_trades.json.gz",
+      "sha256": "b458b42f62d88bdd9487cec41c27b3103c4622bc3844dcf19e9e836641231cd4",
+      "rows": 379
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-05-04_trades.json.gz",
+      "sha256": "e80f82dae591f5f730b154cff4be403ac1dfc868e7e3a740a42c3e310326f08f",
+      "rows": 611
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-05-11_trades.json.gz",
+      "sha256": "90c1c910763e69cfcec87c9d70a0a5e24495fc9058a296f3a4bf73fd005da966",
+      "rows": 532
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-05-18_trades.json.gz",
+      "sha256": "f217b3666888999a9ed15862cca3345c05a8dac81410903eadf1117033c43c91",
+      "rows": 226
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-05-25_trades.json.gz",
+      "sha256": "d183702de40588931b978b8fdc474a14829b13bd748f1c38085e5f49b7a83c8a",
+      "rows": 383
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-06-01_trades.json.gz",
+      "sha256": "122e85ca0f1555bda8d7ebbf44e3305e8abbd0a00cf3e75d0ace0306854141d4",
+      "rows": 184
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-06-08_trades.json.gz",
+      "sha256": "34847e0022f44017b343a11751b6ac6af7762a132fdf56ca48a20aff6732dcd1",
+      "rows": 218
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-06-15_trades.json.gz",
+      "sha256": "22d674ddc13a180877a34b4e45f9bf020d02516a860da1b9b5deb1c89181c2ac",
+      "rows": 419
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-06-22_trades.json.gz",
+      "sha256": "485603fe79185f8a6fbfdcae2ed6d943dc51b69d1ff86ee20b4fcabed5a9f450",
+      "rows": 119
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-06-29_trades.json.gz",
+      "sha256": "0c030ed3e0d7187beaa61504b54ae6e9bdbc4ff25ef156f6fecb950d72baba62",
+      "rows": 247
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-07-06_trades.json.gz",
+      "sha256": "386b774f49e12699fbb4a7383efb78088a5e965744596c59a13f8bbee5d0686f",
+      "rows": 503
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-07-13_trades.json.gz",
+      "sha256": "07b622131e1d9d65cc2b92003e6839f212b981832f8098ef7b41844c146e2dfa",
+      "rows": 234
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-07-20_trades.json.gz",
+      "sha256": "e576d0af3f08a1436e2f6a8d4bde08dc1fe859b1244146ba13f49db4f7b3e486",
+      "rows": 601
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-07-27_trades.json.gz",
+      "sha256": "73d5872995de749a5eeca1f111098a434213787ef5cda6331c9e12b4c2310110",
+      "rows": 476
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-08-03_trades.json.gz",
+      "sha256": "09d9bf36512f5d2db26d1005ab866550f5c790cb3a85869630ca097832e55e42",
+      "rows": 498
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-08-10_trades.json.gz",
+      "sha256": "4b8733cc9ec36cfc1a63ed96651a0692b8605efbb54eef1b110d55978d4eb57d",
+      "rows": 96
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-08-17_trades.json.gz",
+      "sha256": "0456bef3d22c93290c83c5a84788de1dab7e19d694bcdab3b98917009751d176",
+      "rows": 300
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-08-24_trades.json.gz",
+      "sha256": "bc1cadc872daa96f0111fda5cea688cb04e3461d3e433f53cb63e84283d844c5",
+      "rows": 293
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-08-31_trades.json.gz",
+      "sha256": "589d9d6378ac25474f7ef2e6fae0586cfa64b64daf4e5aaaa4ed7345192e61d8",
+      "rows": 183
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-09-07_trades.json.gz",
+      "sha256": "0849a232a483ec191efff8ae0931d4033381345a4306f7b760c1de1d4c9162b6",
+      "rows": 669
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-09-14_trades.json.gz",
+      "sha256": "675bfa11d64c153bcf4c2b4ce5e1865c8fd85cfaa359ae94f32f732d2f65e2c8",
+      "rows": 144
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-09-21_trades.json.gz",
+      "sha256": "d5d74c4e62592d96b9a5e985d6a88891da05ae6b1931529f35426ca320a6af9a",
+      "rows": 242
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-09-28_trades.json.gz",
+      "sha256": "374a579ed38023e3abf047da3b6c796562bf2ca992a47d4c237dae9f38988602",
+      "rows": 164
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-10-05_trades.json.gz",
+      "sha256": "20953fd6e72e1986ca45b5347eca1a6c4f3c5b4001147760da6f54f59fe41f59",
+      "rows": 184
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-10-12_trades.json.gz",
+      "sha256": "d052a9e4a1ed493a4dfb1ff320f582806f97da3acebe436d59bc318a255306e9",
+      "rows": 620
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-10-19_trades.json.gz",
+      "sha256": "69bfb692a73e9cf85d8d5e6712d23b0be50b925155055e468b9891d18e84f1d9",
+      "rows": 226
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-10-26_trades.json.gz",
+      "sha256": "2cdc4db902ae01cb97d96343464fc90ff09d060515fd08ad38125ff35d8862cc",
+      "rows": 193
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-11-02_trades.json.gz",
+      "sha256": "dd751b1e00a925521e11d0095b4fb134b53ff7203a4d13aa027b401d0e2d7d0d",
+      "rows": 368
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-11-09_trades.json.gz",
+      "sha256": "cd0ba910a7b704ce6768b53c9c78dcad62ba3be7534c741ca76a7cc0457be5f1",
+      "rows": 340
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-11-16_trades.json.gz",
+      "sha256": "e90e5f23f9c9faa88fdaff5284b473c92714dbbcef8fe63996cb7cb1c351626e",
+      "rows": 294
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-11-23_trades.json.gz",
+      "sha256": "1fda6ddb7df12680299e005572c956633dfabd97828b32058f73910325ae36fb",
+      "rows": 750
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-11-30_trades.json.gz",
+      "sha256": "174ad41f2bb9151f4c8e3d4e2a09c887665ce3a6bf908f84af47dd6d9cfccf66",
+      "rows": 359
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-12-07_trades.json.gz",
+      "sha256": "0a344f4475d555f6e6a82448b15390732f2f49b95e0f00fec1795a643b77eb3e",
+      "rows": 245
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-12-14_trades.json.gz",
+      "sha256": "29b9c820de4a974213121caa3fca090c375f90f4a04007f86d4ef48098e866fc",
+      "rows": 580
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-12-21_trades.json.gz",
+      "sha256": "2a8b9ab91b48316d6e373bd9f5d511c810a29f1ed873bcab40bea6e98f930311",
+      "rows": 292
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2024-12-28_trades.json.gz",
+      "sha256": "efe23e3103b5cace898872021ff42dc28b401ef936baa5029fdfbdf94281b99c",
+      "rows": 280
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-01-04_trades.json.gz",
+      "sha256": "11baf90152a1a9baa8dd152c9c827ea72daed3cc27fd1802a6a13ec49957633c",
+      "rows": 105
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-01-11_trades.json.gz",
+      "sha256": "dffeabf50f8a758f831c188e6a8bc5a6ef7a297f02ab318ab27881ee90b65710",
+      "rows": 187
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-01-18_trades.json.gz",
+      "sha256": "2c46653c0f295a1466b65a59859e0707e8eccf926526bf7b7988408ca0f6b55c",
+      "rows": 710
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-01-25_trades.json.gz",
+      "sha256": "c8ec420119a4ec59ca25cb8cccd02525138de3925ec53e9090305b5ca653c145",
+      "rows": 212
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-02-01_trades.json.gz",
+      "sha256": "c21b56ab6e5e7fadf4510726219b8e2af7a77246fd6ad561ee34fc9f6d46b5a4",
+      "rows": 310
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-02-08_trades.json.gz",
+      "sha256": "c596b329dac3c133213225bcb18a76b3836ba22bae2a214b7be4dc0be5563021",
+      "rows": 313
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-02-15_trades.json.gz",
+      "sha256": "d61d01716a0de2cc4e57ae4a384cdc8b49fb63c2166051ae8c733dc09aa37888",
+      "rows": 140
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-02-22_trades.json.gz",
+      "sha256": "3541bbd5c287d730c142394d1deb27930817e74a28a9f6a82e6e2554300a265f",
+      "rows": 369
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-03-01_trades.json.gz",
+      "sha256": "9e04ca414f72a792c0bee47fbd47ab8d2b3e958f10ef3b9afa133a132175b16e",
+      "rows": 442
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-03-08_trades.json.gz",
+      "sha256": "3d6aea9e09dfb882cf32a463bb6dacf1b3662743ae220cf0056ed44fbf5f0247",
+      "rows": 238
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-03-15_trades.json.gz",
+      "sha256": "2d7ec3bea6fc60441a39f9a9a9337bc7b9b190204c3013d7c2a36950e328fc2d",
+      "rows": 345
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-03-22_trades.json.gz",
+      "sha256": "bd0012b0b369b8fdf0621361e0fc06bbabc7f5fea481f015e5f42693ac3d76c5",
+      "rows": 110
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-03-29_trades.json.gz",
+      "sha256": "60e7e4e99e201ba28267117c907cf865a63d915a98a30e885151bb886e5592a8",
+      "rows": 363
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-04-05_trades.json.gz",
+      "sha256": "ee7f42290bf984937a35671e3657a140c1d8be965ee1901358f98c9e99caff3f",
+      "rows": 322
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-04-12_trades.json.gz",
+      "sha256": "c7ab48d420ca3fdf4c6ed852e328622cef663ea5bddb09e24c698bae5fb7ca7b",
+      "rows": 964
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-04-19_trades.json.gz",
+      "sha256": "59705302649a9a05f7d49abe51618cfdbf4693fa8ff30d3ba6c461df10598b78",
+      "rows": 408
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-04-26_trades.json.gz",
+      "sha256": "965c8c5373bc6d8d4cecbc611cc52bf4c5ee12006125ee11258a070a40fc1972",
+      "rows": 287
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-05-03_trades.json.gz",
+      "sha256": "1813702b9317b03bab876b341cb5264a3eca9b5b31ee44576857d114d579c2e2",
+      "rows": 160
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-05-10_trades.json.gz",
+      "sha256": "9e544b94879e00b7371581c29f9827e16fef7ad1910f68bbd15cde425005904c",
+      "rows": 360
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-05-17_trades.json.gz",
+      "sha256": "d3ebf072e66854f7fa5138eebc582b15e342685e3c1c6f009d7ad55842a5fdc2",
+      "rows": 186
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-05-24_trades.json.gz",
+      "sha256": "afcc4f3c9902573ed7344263bf9613c20de074c87d0c1e9bc4d9725c6a171e10",
+      "rows": 296
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-05-31_trades.json.gz",
+      "sha256": "bb32cbc07ffe5e034e1f41c0798191eeed337595ce3d8a49080c9553be6c0bca",
+      "rows": 876
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-06-07_trades.json.gz",
+      "sha256": "87a74592ae318b24d05e13ca7224c8bdda2500680b2ae23108dcec98b393d12b",
+      "rows": 246
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-06-14_trades.json.gz",
+      "sha256": "5d3f835c686861f331d2dd92cf6a475702fce34579683fc0602be4d60da5b7c5",
+      "rows": 421
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-06-21_trades.json.gz",
+      "sha256": "530af3d118fe3852ef8fbfcfa770ce7578a8c3a358bbc38351c8e55cc472a7f6",
+      "rows": 245
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-06-28_trades.json.gz",
+      "sha256": "457912ce6aa115799bdc6aa411f873d4a5908381f94dd2834d9ef03b30480abf",
+      "rows": 220
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-07-05_trades.json.gz",
+      "sha256": "7d3628665d8b19d5da926c68f6b82a3e4ca89b48009f12aacaa21b2317af355c",
+      "rows": 217
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-07-12_trades.json.gz",
+      "sha256": "d79943a9a3199ad16e8732e703fa3abba45abb4c45417b534ef8d3d029516ffc",
+      "rows": 418
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-07-19_trades.json.gz",
+      "sha256": "3af38a6999ef8acf9c73d217d0439a9c08ad4297a4609370c8bb85d049a892b9",
+      "rows": 330
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-07-26_trades.json.gz",
+      "sha256": "c59fe3b3ff5f78c714d2b92440f4d4f68633208fc5b226f54aded5c3a7ed10dc",
+      "rows": 266
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-08-02_trades.json.gz",
+      "sha256": "d39fd7afaaa4b5fd381a9a2f785b02c65844044ff08fd272e922d2d9b6c41516",
+      "rows": 279
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-08-09_trades.json.gz",
+      "sha256": "5472f277802d5c12cb4360fc57914ba74038079d0b90aafc53f902a798a2dd19",
+      "rows": 414
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-08-16_trades.json.gz",
+      "sha256": "76c92a38e442ff622b33fc29b5b61609920524f18d5235539719939193533067",
+      "rows": 148
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-08-23_trades.json.gz",
+      "sha256": "e18aade26666ca71c2ac4c2e4d67a00601de34883ddbbc1b22f00e08b1ae7959",
+      "rows": 263
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-08-30_trades.json.gz",
+      "sha256": "cf09a575fd2b99e00cdd3bef62b6fc8714f37a6ddcd23234e7bc27c50073b847",
+      "rows": 511
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-09-06_trades.json.gz",
+      "sha256": "6c497660da50d1fbc6aa96234966cb57abfda9d6941432d95eb5479c74c1cbaf",
+      "rows": 574
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-09-13_trades.json.gz",
+      "sha256": "b2c03fc7a63b07b2cdf20baa7fa9d1d706aa55fedaf445d0b572977988279130",
+      "rows": 170
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-09-20_trades.json.gz",
+      "sha256": "dccab36730017f57635b3f10534f23b3b599d26ccd241dff37062ebfacf11543",
+      "rows": 224
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-09-27_trades.json.gz",
+      "sha256": "463dd28f2623ca904d4f9d21786894698c83c48e56e78bbf8d17d0a9e25fc098",
+      "rows": 212
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-10-04_trades.json.gz",
+      "sha256": "04b1ee5d3479439cf3d799be296ed57148f27e27ac8152d842decdb8e7804f26",
+      "rows": 494
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-10-11_trades.json.gz",
+      "sha256": "7d716fd13820ecc035cea85e7885478fe0c70c348d2c31d1f621f0c27375a8e6",
+      "rows": 1172
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-10-18_trades.json.gz",
+      "sha256": "99e89a16dd25767652158ddc71eced7e5bff9a19485dd92c5bed62bea2180f3d",
+      "rows": 304
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-10-25_trades.json.gz",
+      "sha256": "7424f2f5d810618353fdfa40367daae82d8d4735fed5fd9d806ec88fc691ae40",
+      "rows": 236
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-11-01_trades.json.gz",
+      "sha256": "2bdaa9002b0570e1f91a8de65ca273b3de78e87e99c7f92eccced2db44134dae",
+      "rows": 433
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-11-08_trades.json.gz",
+      "sha256": "e9c58d0ac6b84e6395ec148c7baa6b164643cc02d341d101b8742a93968171f7",
+      "rows": 242
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-11-15_trades.json.gz",
+      "sha256": "bcd0fd4c792b9bfdc94c23fd51eda3028ab33dad1a5c850b9e68e0aa438b5b60",
+      "rows": 623
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-11-22_trades.json.gz",
+      "sha256": "cedcc16496b05849c54348331885bababa7b8055086b8db12495adab69d2ebe6",
+      "rows": 533
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-11-29_trades.json.gz",
+      "sha256": "81fec9616ad3c2017739c8899099794e40ec0ccff98f2a22f269658186bc9a10",
+      "rows": 228
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-12-06_trades.json.gz",
+      "sha256": "611494bf098d1cf7cd84f1b9564cab8ffec353c8ff8ca27d4dc3257c04b71573",
+      "rows": 177
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-12-13_trades.json.gz",
+      "sha256": "b63b3a4ae557de15f08fb8925dbd93e97fe12c9d2088cb4fb5603298af1e0c83",
+      "rows": 169
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-12-20_trades.json.gz",
+      "sha256": "d0aa6771c407e5cd5e276ffb10264a8dcad6b2a04a53a97909e159e765fab5d2",
+      "rows": 114
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2025-12-27_trades.json.gz",
+      "sha256": "844192232443db6cb14fc920b215624926bdb352d5b97b9da6f51648485bf924",
+      "rows": 213
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-01-03_trades.json.gz",
+      "sha256": "92f79d09be7afc3067d04cd3f26c46c6debba7018bc4e94e153d37c6c4a69910",
+      "rows": 172
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-01-10_trades.json.gz",
+      "sha256": "6bc269b96bcffa34cd560dd14eed82d0b07017d11686bf0d713ca8503c9bee30",
+      "rows": 64
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-01-17_trades.json.gz",
+      "sha256": "1e8b1e89e1778c2cf81de9a118bda5d2ca775ad008d1a4cf33425001a5507b95",
+      "rows": 381
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-01-24_trades.json.gz",
+      "sha256": "6aa53e283999103680e172e0967089c894b95a95c4913b06e4d7c98e01f776ca",
+      "rows": 277
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-01-31_trades.json.gz",
+      "sha256": "2ac4409863a1b28c03f6378ae0f760bda476725549cb5dfd9a18d13a52f4bfb7",
+      "rows": 2304
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-02-07_trades.json.gz",
+      "sha256": "4644c45bd32585ed810a15768257c1e7348d3af96195938f081b0f61c69aa614",
+      "rows": 465
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-02-14_trades.json.gz",
+      "sha256": "502dd5e8102c3465899fdc4332bfd4125e462725d17b0e4d9a75199c8400a208",
+      "rows": 317
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-02-21_trades.json.gz",
+      "sha256": "66280054f68a02725889cbafe66100ec04904bbe725a74655c43cb81b628fa2e",
+      "rows": 295
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-02-28_trades.json.gz",
+      "sha256": "4f6e7fcce8f4036087b1d4a7053e2b78f6eb672dbfe49d6f2daf2c407431e2ea",
+      "rows": 803
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-03-07_trades.json.gz",
+      "sha256": "69cc0906b85428d4ad910c8daf0babf017969e1936135df6f18e8c75e4982847",
+      "rows": 318
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-03-14_trades.json.gz",
+      "sha256": "9c9e64e83a62bed94b4a6ff793e1cce5f714b89841f82fad75cd9b7f2965ccbc",
+      "rows": 114
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-03-21_trades.json.gz",
+      "sha256": "d5e7418f413dcf9ace6405cfdc2650bf480cd4a045cbbc239c5e78f5d83f0c93",
+      "rows": 152
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-03-28_trades.json.gz",
+      "sha256": "0139ee7a0a8bfe8b2cb5df2ceb279c823e3953bd9121b139987c5e1f155d1b89",
+      "rows": 397
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-04-04_trades.json.gz",
+      "sha256": "5010ce054a2d589326ca0a3d7a52e5b9d63d54a295706b7988affebb071ad42b",
+      "rows": 385
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-04-11_trades.json.gz",
+      "sha256": "60dd5fe1da8732602c6992b4efb1e84cbcf8ff808f0aefa766289ea5fc60ce92",
+      "rows": 180
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-04-18_trades.json.gz",
+      "sha256": "2095557080b5972141b6eb5e1848974d219c05a2c2ae7493bcb1051dda0dde7c",
+      "rows": 216
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-04-25_trades.json.gz",
+      "sha256": "6efd6be70d45a0002b6445e1332a16b76f0b653b2bf029a08f933c065a3551a2",
+      "rows": 227
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-05-02_trades.json.gz",
+      "sha256": "5e4370805ee7021daf812c478093349c9fd8e5740ff426cb2dc11e31c01aa73f",
+      "rows": 129
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-05-09_trades.json.gz",
+      "sha256": "4945b98693e260a797eeb72fd55f6ed06830688bdd1392cd303897dc05c84cd0",
+      "rows": 279
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-05-16_trades.json.gz",
+      "sha256": "8e568108db5c90e33552aa677eaf1029dcd4cd1af6dbe7a245e53c357e5c6d3d",
+      "rows": 263
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-05-23_trades.json.gz",
+      "sha256": "bc1343e384a73a6e3977c94d40d78d3f0fb7dad040df2d3dc8f73783850dd7b4",
+      "rows": 402
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-05-30_trades.json.gz",
+      "sha256": "8a371168ea76e8354892397e3b217f8c26cea5245684bd4c8f4355bfe7e67f97",
+      "rows": 187
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-06-06_trades.json.gz",
+      "sha256": "bea7c34afa01c389f60a3c3a86fa565c689d2781e313ca6aebf443ddae12703b",
+      "rows": 271
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-06-13_trades.json.gz",
+      "sha256": "07d15402e35399dd3a563391e24821a05544962330f3c801e1f8ce31317162e4",
+      "rows": 281
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-06-20_trades.json.gz",
+      "sha256": "93d8dae63810a37f83ce37d168bb03d8eae5a409901c05e4f17243dc7a7ac796",
+      "rows": 472
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-06-27_trades.json.gz",
+      "sha256": "d117d1a5380d1c94fd30eba08b620c783c559154fd56e0fe26bf801a2a0324f4",
+      "rows": 314
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-07-04_trades.json.gz",
+      "sha256": "67968fcad92356f1737b48aaf688a3e45732cabb3f8bc520baa9ddcfb989124c",
+      "rows": 563
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-07-11_trades.json.gz",
+      "sha256": "9474d66030bddeaffedd52ef9046ad2ea92d5a5e65adec1211f2697a430a0cb7",
+      "rows": 677
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-07-18_trades.json.gz",
+      "sha256": "6827d39cb392f9cb833d50cacacee5fff514391eb8c0ac9d1e7d8ec3441b7f74",
+      "rows": 157
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-07-25_trades.json.gz",
+      "sha256": "d36df6e2a35e06ea0009377a75caa3be676e2514cdcf5db0f9f9d62612dbe516",
+      "rows": 110
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-08-01_trades.json.gz",
+      "sha256": "8f810eed1c6161c3518fffdb7ecc287f8b2cfa70b9d5bbf76d2d509ca1006a65",
+      "rows": 87
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-08-08_trades.json.gz",
+      "sha256": "7dba51b1e262bd8a397e55cb4320a227d649794006b9dc42dd76b60f8549716f",
+      "rows": 97
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-08-15_trades.json.gz",
+      "sha256": "4c08d329c19e8c8ad509056698b72622e835869167ae74fd67582747fd7f39cf",
+      "rows": 102
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-08-22_trades.json.gz",
+      "sha256": "74287c586c9d53712528ace62405c24321ecf51de46d40836e356efd95f77889",
+      "rows": 301
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-08-29_trades.json.gz",
+      "sha256": "47675591b67c2abe953cc78b2393025e9cee8c4be1a85c25ab5f387e80bbc172",
+      "rows": 115
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-09-05_trades.json.gz",
+      "sha256": "ae31b4fb3d35b2a1b02748732eaefd4fd973e7b9673ccf888af8dc3bd63f0c67",
+      "rows": 151
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-09-12_trades.json.gz",
+      "sha256": "f602b3a9bf4927b9317c53a173ef5a6e7a2842f81443d4b453b5da15d9b9d3e8",
+      "rows": 96
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-09-19_trades.json.gz",
+      "sha256": "c85ceabae20196c8a906d8aa10bb4ba58b32fc7cee40a49e3b632101f4b08f11",
+      "rows": 365
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-09-26_trades.json.gz",
+      "sha256": "3a7bfe165af4dcad266d22da3cd88db19c2644e24baef79bc0c4d6d2081bd2a6",
+      "rows": 48
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-10-03_trades.json.gz",
+      "sha256": "0e2f89844836635c8737f3658293d168c6f6189f4c961fb71fc59a88e6cd070e",
+      "rows": 66
+    },
+    {
+      "path": "data\\deribit_trade_daily\\raw\\2026-10-10_trades.json.gz",
+      "sha256": "da359f94559ee5112363ac8355c4d0abc2030cc39c81aa724d1dcc470b4a4ebb",
+      "rows": 63
+    }
+  ],
+  "observations": 1751,
+  "future_weekends_excluded": 11,
+  "html_browser_runtime_verified": true
+}

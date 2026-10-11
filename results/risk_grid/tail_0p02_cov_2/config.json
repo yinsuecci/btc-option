@@ -1,0 +1,104 @@
+{
+  "source_directory": "data/entry_timing/fri_16utc",
+  "entry_time_utc": "Friday 16:00",
+  "entry_time_beijing": "Saturday 00:00",
+  "holding_hours": 40,
+  "center_beta": {
+    "intercept": 0.0076639405300452145,
+    "coefficients": {
+      "momentum_1d": 0.1287368534083784,
+      "momentum_3d": -0.03594686032053589,
+      "momentum_7d": 0.031249158074633143,
+      "rv_7d": 0.005702565543208652,
+      "rv_30d": 0.0005770303458932862,
+      "spot_volume_z30": 0.0018050854730728317,
+      "jump_z": 0.0012720849688138732,
+      "median_trade_iv": -0.026309751335680615,
+      "days_to_expiry": 0.0
+    },
+    "scaler_mean": {
+      "momentum_1d": -0.002512654480308901,
+      "momentum_3d": -0.0004358650517110543,
+      "momentum_7d": 0.004307264891373013,
+      "rv_7d": 0.4502851552169515,
+      "rv_30d": 0.48426166924239944,
+      "spot_volume_z30": 0.26118052004876163,
+      "jump_z": 0.7880371321515885,
+      "median_trade_iv": 0.43561279999999997,
+      "days_to_expiry": 1.6666666666666667
+    },
+    "scaler_scale": {
+      "momentum_1d": 0.027680326432576823,
+      "momentum_3d": 0.04510487644268572,
+      "momentum_7d": 0.06854245602116545,
+      "rv_7d": 0.23044411112234342,
+      "rv_30d": 0.16118150480049268,
+      "spot_volume_z30": 0.9552523240812657,
+      "jump_z": 0.735736109989651,
+      "median_trade_iv": 0.15031336692443556,
+      "days_to_expiry": 1.0
+    }
+  },
+  "vol_gamma": {
+    "intercept": -11.911945219145263,
+    "coefficients": {
+      "rv_7d": -0.1291142237306361,
+      "rv_30d": 1.6270507758687447,
+      "spot_volume_z30": 0.23672108413684348,
+      "jump_z": 0.09564872316856594,
+      "median_trade_iv": 3.729379291671099,
+      "days_to_expiry": 0.0
+    },
+    "scaler_mean": {
+      "rv_7d": 0.44019570955346043,
+      "rv_30d": 0.47459389712403927,
+      "spot_volume_z30": 0.24781953640854879,
+      "jump_z": 0.7887014351484095,
+      "median_trade_iv": 0.4247875527426161,
+      "days_to_expiry": 1.6666666666666667
+    },
+    "scaler_scale": {
+      "rv_7d": 0.2247619624578187,
+      "rv_30d": 0.15700509986883576,
+      "spot_volume_z30": 0.9453734481947076,
+      "jump_z": 0.74545275643789,
+      "median_trade_iv": 0.14611549685442388,
+      "days_to_expiry": 1.0
+    }
+  },
+  "variance_calibration": 5.122779836848162,
+  "train_start": "2022-01-01",
+  "train_end": "2026-10-10",
+  "price_rows": 250,
+  "variance_rows": 237,
+  "label_cutoff": "2026-10-11 08:00:01+00:00",
+  "retrospective": true,
+  "config": {
+    "mean_min_train": 13,
+    "evaluation_min_train": 52,
+    "variance_min_residuals": 26,
+    "ridge_alpha": 10.0,
+    "residual_square_floor": 1e-10,
+    "sigma_floor": 0.001,
+    "sigma_cap": 0.2,
+    "covariance_penalty_per_btc": 2.0,
+    "quadrature_nodes": 128
+  },
+  "execution": {
+    "min_train_weekends": 26,
+    "ridge_alpha": 10.0,
+    "slippage_fraction": 0.05,
+    "fee_btc": 0.0003,
+    "fee_premium_cap": 0.125,
+    "max_trade_age_minutes": 60.0,
+    "initial_equity_btc": 1.0,
+    "max_leg_quantity": 0.5,
+    "gross_limit": 2.0,
+    "lot": 0.1,
+    "delta_log_limit": 0.3,
+    "vega_btc_limit": 0.2,
+    "margin_proxy_limit": 0.5,
+    "stress_loss_limit": 0.25,
+    "risk_penalty_per_btc": 0.02
+  }
+}

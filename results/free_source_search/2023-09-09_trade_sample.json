@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712494972637,
+  "usIn": 1791712494961934,
+  "usDiff": 10703,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 70,
+        "trade_id": "264340776",
+        "timestamp": 1694232004985,
+        "tick_direction": 2,
+        "price": 0.0014,
+        "mark_price": 0.00354327,
+        "iv": 14.51,
+        "instrument_name": "BTC-10SEP23-26000-C",
+        "index_price": 25872.15,
+        "direction": "sell",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

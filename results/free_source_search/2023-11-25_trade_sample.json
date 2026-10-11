@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712509152826,
+  "usIn": 1791712509145625,
+  "usDiff": 7201,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 531,
+        "trade_id": "272699548",
+        "timestamp": 1700888505921,
+        "tick_direction": 0,
+        "price": 0.0009,
+        "mark_price": 0.00092463,
+        "iv": 36.39,
+        "instrument_name": "BTC-25NOV23-38000-C",
+        "index_price": 37811.61,
+        "direction": "buy",
+        "amount": 1.0
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

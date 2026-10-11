@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712453344714,
+  "usIn": 1791712453337080,
+  "usDiff": 7634,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 329,
+        "trade_id": "239139087",
+        "timestamp": 1673672466326,
+        "tick_direction": 3,
+        "price": 0.0005,
+        "mark_price": 0.0,
+        "iv": 364.06,
+        "instrument_name": "BTC-14JAN23-18250-P",
+        "index_price": 20904.65,
+        "direction": "buy",
+        "amount": 1.0
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712480344093,
+  "usIn": 1791712480338222,
+  "usDiff": 5871,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 233,
+        "trade_id": "258309529",
+        "timestamp": 1686974444993,
+        "tick_direction": 3,
+        "price": 0.0015,
+        "mark_price": 0.00184522,
+        "iv": 17.47,
+        "instrument_name": "BTC-17JUN23-26250-C",
+        "index_price": 26249.22,
+        "direction": "sell",
+        "amount": 0.3
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

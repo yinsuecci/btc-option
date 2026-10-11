@@ -1,0 +1,28 @@
+{
+  "repository": "https://github.com/QuantLet/hedging_cc",
+  "tree_truncated": false,
+  "groups": [
+    {
+      "prefix": "_input/BTCUSDT.csv",
+      "file_count": 1,
+      "first_date": null,
+      "last_date": null,
+      "sample_path": "_input/BTCUSDT.csv",
+      "sample_head": [
+        "Date,Close",
+        "2017-01-01,998.325012"
+      ]
+    },
+    {
+      "prefix": "_input/tickers",
+      "file_count": 459,
+      "first_date": "20190401",
+      "last_date": "20200701",
+      "sample_path": "_input/tickers/20190401.csv",
+      "sample_head": [
+        "underlying_price,underlying_index,timestamp,state,settlement_price,open_interest,min_price,max_price,mark_price,mark_iv,last_price,interest_rate,instrument_name,index_price,bid_iv,best_bid_price,best_bid_amount,best_ask_price,best_ask_amount,ask_iv,vega,theta,rho,gamma,delta",
+        "143.4,ETH-28JUN19,1554116340009,open,0.22,26.0,0.207966,0.295411,0.214827,64.59,0.191,0.0,ETH-28JUN19-120-C,141.37,57.29,0.204,138.0,0.221,138.0,68.65,0.21652,-0.07958,0.18974,0.00677,0.76441"
+      ]
+    }
+  ]
+}

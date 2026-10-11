@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712446002213,
+  "usIn": 1791712445995255,
+  "usDiff": 6958,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 162,
+        "trade_id": "237195412",
+        "timestamp": 1670043613151,
+        "tick_direction": 2,
+        "price": 0.002,
+        "mark_price": 0.00219527,
+        "iv": 30.17,
+        "instrument_name": "BTC-4DEC22-17250-C",
+        "index_price": 17020.71,
+        "direction": "sell",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

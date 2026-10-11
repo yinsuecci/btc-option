@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712426047851,
+  "usIn": 1791712426041436,
+  "usDiff": 6415,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 93,
+        "trade_id": "226459927",
+        "timestamp": 1660363237443,
+        "tick_direction": 2,
+        "price": 0.0005,
+        "mark_price": 0.00086141,
+        "iv": 45.41,
+        "instrument_name": "BTC-13AUG22-24500-P",
+        "index_price": 24794.63,
+        "direction": "sell",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

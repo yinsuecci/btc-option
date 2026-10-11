@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712473048458,
+  "usIn": 1791712473042218,
+  "usDiff": 6240,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 566,
+        "trade_id": "253837685",
+        "timestamp": 1683345604102,
+        "tick_direction": 2,
+        "price": 0.0075,
+        "mark_price": 0.00763413,
+        "iv": 49.04,
+        "instrument_name": "BTC-12MAY23-31000-C",
+        "index_price": 29392.3,
+        "direction": "sell",
+        "amount": 10.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

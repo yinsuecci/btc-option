@@ -1,0 +1,34 @@
+{
+  "data_mode": "SYNTHETIC",
+  "number_of_weekends": 14,
+  "traded_weekends": 13,
+  "no_trade_weekends": 1,
+  "gross_pnl": 136.66703801655194,
+  "net_pnl": 121.78790846159902,
+  "average_pnl": 8.699136318685644,
+  "median_pnl": 8.084655623925169,
+  "win_rate": 0.8461538461538461,
+  "sharpe": 3.0483792101383598,
+  "max_drawdown": -50.30357514806383,
+  "turnover": 1.848,
+  "average_holding_time": 39.89041095890411,
+  "average_transaction_cost": 0.20382369253360258,
+  "worst_trade": -18.232330840421362,
+  "best_trade": 12.9670293759622,
+  "worst_weekend": -50.30357514805905,
+  "expected_shortfall": -50.30357514805905,
+  "backtest_start": "2025-02-15",
+  "backtest_end": "2025-05-17",
+  "nautilus": {
+    "engine": "NautilusTrader",
+    "fills": 146,
+    "gross_pnl": 136.66037999999998,
+    "reconciliation_error": -0.006658016551966739,
+    "tolerance": 0.019405000000000002,
+    "net_pnl_after_explicit_costs": 121.781250445047
+  },
+  "warnings": [
+    "Multicollinearity (absolute correlation > 0.9): rv_24h / iv_minus_rv, mark_iv / bid_iv, mark_iv / ask_iv, bid_iv / ask_iv, moneyness / log_moneyness, gamma / theta",
+    "Factor instability, frequent coefficient sign changes: hours_to_expiry"
+  ]
+}

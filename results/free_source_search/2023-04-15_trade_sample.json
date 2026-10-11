@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712469418373,
+  "usIn": 1791712469412304,
+  "usDiff": 6069,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 189,
+        "trade_id": "250923138",
+        "timestamp": 1681531324109,
+        "tick_direction": 3,
+        "price": 0.0005,
+        "mark_price": 0.00032056,
+        "iv": 43.07,
+        "instrument_name": "BTC-15APR23-30750-C",
+        "index_price": 30408.48,
+        "direction": "buy",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

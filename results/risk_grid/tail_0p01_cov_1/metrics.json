@@ -1,0 +1,38 @@
+{
+  "weekly_return_sharpe": 2.202259583239532,
+  "sharpe_risk_free_btc": 0.0,
+  "sharpe_annualization_periods": 52,
+  "sharpe_observations": 198,
+  "sharpe_includes_no_trade_weekends": true,
+  "max_drawdown_pct": -2.1106939473951036,
+  "maximum_drawdown_btc": -0.027003077444246237,
+  "drawdown_peak_weekend": "2025-10-04",
+  "drawdown_trough_weekend": "2025-10-11",
+  "drawdown_recovery_weekend": "2026-03-14",
+  "drawdown_basis": "End-weekend settled BTC equity including initial equity; not intraday mark-to-market",
+  "scenario": "tail_0p01_cov_1",
+  "preset": "BALANCED",
+  "tail_penalty": 0.01,
+  "covariance_penalty": 1.0,
+  "net_pnl_btc": 0.3188414908490961,
+  "gross_pnl_btc": 0.40208349084909606,
+  "costs_btc": 0.08324200000000001,
+  "final_equity_btc": 1.318841490849094,
+  "cagr": 0.07605610292440179,
+  "traded_weekends": 182,
+  "average_quantity": 0.9116161616161617,
+  "average_margin_btc": 0.1174514518301483,
+  "max_margin_btc": 0.26011303010369025,
+  "worst_weekend_btc": -0.02700307744424618,
+  "trade_legs": 884,
+  "oos_weekends": 198,
+  "status_counts": {
+    "ENTER": 182,
+    "ROUNDING_INFEASIBLE": 10,
+    "NO_POSITIVE_ROUNDED_PORTFOLIO": 6
+  },
+  "fixed_strategy_8week_bootstrap_pnl_95ci_btc": [
+    0.20317233969318685,
+    0.4397943942654423
+  ]
+}

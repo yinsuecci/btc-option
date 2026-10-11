@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712506716827,
+  "usIn": 1791712506711300,
+  "usDiff": 5527,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 613,
+        "trade_id": "270829235",
+        "timestamp": 1699678803949,
+        "tick_direction": 0,
+        "price": 0.0041,
+        "mark_price": 0.00408913,
+        "iv": 50.68,
+        "instrument_name": "BTC-17NOV23-34500-P",
+        "index_price": 37084.11,
+        "direction": "sell",
+        "amount": 0.3
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

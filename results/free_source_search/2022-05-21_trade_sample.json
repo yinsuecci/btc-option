@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712407904412,
+  "usIn": 1791712407899056,
+  "usDiff": 5356,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 367,
+        "trade_id": "215223656",
+        "timestamp": 1653105830906,
+        "tick_direction": 2,
+        "price": 0.0015,
+        "mark_price": 0.00214169,
+        "iv": 51.07,
+        "instrument_name": "BTC-21MAY22-29000-P",
+        "index_price": 29225.04,
+        "direction": "sell",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712387088836,
+  "usIn": 1791712387079865,
+  "usDiff": 8971,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 3029,
+        "trade_id": "199960920",
+        "timestamp": 1642827611725,
+        "tick_direction": 0,
+        "price": 0.004,
+        "mark_price": 0.0036685,
+        "iv": 92.3,
+        "instrument_name": "BTC-25MAR22-80000-C",
+        "index_price": 36284.65,
+        "direction": "buy",
+        "amount": 0.5
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

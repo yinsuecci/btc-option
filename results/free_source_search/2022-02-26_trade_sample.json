@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712393269112,
+  "usIn": 1791712393262626,
+  "usDiff": 6486,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 547,
+        "trade_id": "204961079",
+        "timestamp": 1645851687564,
+        "tick_direction": 1,
+        "price": 0.0395,
+        "mark_price": 0.03978393,
+        "iv": 61.68,
+        "instrument_name": "BTC-11MAR22-40000-C",
+        "index_price": 39365.01,
+        "direction": "sell",
+        "amount": 0.4
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

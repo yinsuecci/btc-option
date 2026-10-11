@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712401858339,
+  "usIn": 1791712401851826,
+  "usDiff": 6513,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 37,
+        "trade_id": "210291437",
+        "timestamp": 1650081643579,
+        "tick_direction": 2,
+        "price": 0.001,
+        "mark_price": 0.00148072,
+        "iv": 46.65,
+        "instrument_name": "BTC-17APR22-39000-P",
+        "index_price": 40443.01,
+        "direction": "sell",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

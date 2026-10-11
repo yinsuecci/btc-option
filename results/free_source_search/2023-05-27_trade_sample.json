@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712476679291,
+  "usIn": 1791712476670421,
+  "usDiff": 8870,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 129,
+        "trade_id": "256008435",
+        "timestamp": 1685160086346,
+        "tick_direction": 0,
+        "price": 0.003,
+        "mark_price": 0.00303037,
+        "iv": 28.55,
+        "instrument_name": "BTC-28MAY23-27000-C",
+        "index_price": 26763.86,
+        "direction": "sell",
+        "amount": 0.4
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

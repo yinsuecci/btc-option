@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712498626641,
+  "usIn": 1791712498618672,
+  "usDiff": 7969,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 382,
+        "trade_id": "265667386",
+        "timestamp": 1696046438528,
+        "tick_direction": 3,
+        "price": 0.008,
+        "mark_price": 0.00750509,
+        "iv": 64.85,
+        "instrument_name": "BTC-29MAR24-65000-C",
+        "index_price": 26917.27,
+        "direction": "buy",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

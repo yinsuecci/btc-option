@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712456976491,
+  "usIn": 1791712456968395,
+  "usDiff": 8096,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 1000,
+        "trade_id": "240862142",
+        "timestamp": 1675487159241,
+        "tick_direction": 1,
+        "price": 0.0055,
+        "mark_price": 0.00561859,
+        "iv": 48.47,
+        "instrument_name": "BTC-10FEB23-22000-P",
+        "index_price": 23331.71,
+        "direction": "sell",
+        "amount": 0.9
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

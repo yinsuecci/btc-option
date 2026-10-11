@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712468131359,
+  "usIn": 1791712468118793,
+  "usDiff": 12566,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 147,
+        "trade_id": "250110088",
+        "timestamp": 1680926401676,
+        "tick_direction": 0,
+        "price": 0.0345,
+        "mark_price": 0.03470365,
+        "iv": 45.6,
+        "instrument_name": "BTC-14APR23-27500-C",
+        "index_price": 28043.35,
+        "direction": "buy",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

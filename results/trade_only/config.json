@@ -1,0 +1,17 @@
+{
+  "min_train_weekends": 26,
+  "ridge_alpha": 10.0,
+  "slippage_fraction": 0.05,
+  "fee_btc": 0.0003,
+  "fee_premium_cap": 0.125,
+  "max_trade_age_minutes": 60.0,
+  "initial_equity_btc": 1.0,
+  "max_leg_quantity": 0.5,
+  "gross_limit": 2.0,
+  "lot": 0.1,
+  "delta_log_limit": 0.3,
+  "vega_btc_limit": 0.2,
+  "margin_proxy_limit": 0.5,
+  "stress_loss_limit": 0.25,
+  "risk_penalty_per_btc": 0.02
+}

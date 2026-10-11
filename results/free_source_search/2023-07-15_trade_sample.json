@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712485157448,
+  "usIn": 1791712485150581,
+  "usDiff": 6867,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 781,
+        "trade_id": "261091558",
+        "timestamp": 1689393604044,
+        "tick_direction": 0,
+        "price": 0.0115,
+        "mark_price": 0.01185365,
+        "iv": 32.2,
+        "instrument_name": "BTC-21JUL23-30000-P",
+        "index_price": 30304.83,
+        "direction": "sell",
+        "amount": 0.8
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

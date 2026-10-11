@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712431075738,
+  "usIn": 1791712431069506,
+  "usDiff": 6232,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 2976,
+        "trade_id": "228740925",
+        "timestamp": 1662782403705,
+        "tick_direction": 2,
+        "price": 0.055,
+        "mark_price": 0.05526445,
+        "iv": 67.12,
+        "instrument_name": "BTC-30SEP22-21000-P",
+        "index_price": 21311.82,
+        "direction": "sell",
+        "amount": 0.7
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

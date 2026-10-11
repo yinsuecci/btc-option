@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712429808094,
+  "usIn": 1791712429800449,
+  "usDiff": 7645,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 263,
+        "trade_id": "228182007",
+        "timestamp": 1662177604717,
+        "tick_direction": 2,
+        "price": 0.0135,
+        "mark_price": 0.01392693,
+        "iv": 75.18,
+        "instrument_name": "BTC-16SEP22-17500-P",
+        "index_price": 19896.76,
+        "direction": "sell",
+        "amount": 0.6
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

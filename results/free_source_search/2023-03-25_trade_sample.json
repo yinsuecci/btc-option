@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712465690185,
+  "usIn": 1791712465682375,
+  "usDiff": 7810,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 359,
+        "trade_id": "248128606",
+        "timestamp": 1679716919999,
+        "tick_direction": 1,
+        "price": 0.0395,
+        "mark_price": 0.03949554,
+        "iv": 59.25,
+        "instrument_name": "BTC-7APR23-28000-C",
+        "index_price": 27629.01,
+        "direction": "buy",
+        "amount": 1.0
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

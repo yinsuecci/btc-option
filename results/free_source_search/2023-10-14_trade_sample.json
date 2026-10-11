@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712501080291,
+  "usIn": 1791712501071435,
+  "usDiff": 8856,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 148,
+        "trade_id": "266684334",
+        "timestamp": 1697256118222,
+        "tick_direction": 2,
+        "price": 0.005,
+        "mark_price": 0.00505604,
+        "iv": 16.12,
+        "instrument_name": "BTC-15OCT23-27000-P",
+        "index_price": 26928.53,
+        "direction": "buy",
+        "amount": 7.3
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

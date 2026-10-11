@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712434844989,
+  "usIn": 1791712434837711,
+  "usDiff": 7278,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 480,
+        "trade_id": "230855982",
+        "timestamp": 1664596849206,
+        "tick_direction": 0,
+        "price": 0.0025,
+        "mark_price": 0.00260916,
+        "iv": 50.7,
+        "instrument_name": "BTC-1OCT22-19500-C",
+        "index_price": 19416.03,
+        "direction": "sell",
+        "amount": 1.0
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

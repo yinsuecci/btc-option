@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712464503442,
+  "usIn": 1791712464495955,
+  "usDiff": 7487,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 273,
+        "trade_id": "246252421",
+        "timestamp": 1679112022189,
+        "tick_direction": 3,
+        "price": 0.011,
+        "mark_price": 0.01155579,
+        "iv": 70.88,
+        "instrument_name": "BTC-24MAR23-25500-P",
+        "index_price": 27378.06,
+        "direction": "sell",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

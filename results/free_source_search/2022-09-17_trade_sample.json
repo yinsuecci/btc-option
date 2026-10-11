@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712432348503,
+  "usIn": 1791712432342339,
+  "usDiff": 6164,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 233,
+        "trade_id": "229356793",
+        "timestamp": 1663387241394,
+        "tick_direction": 3,
+        "price": 0.007,
+        "mark_price": 0.00719507,
+        "iv": 42.76,
+        "instrument_name": "BTC-18SEP22-20000-C",
+        "index_price": 19881.95,
+        "direction": "sell",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

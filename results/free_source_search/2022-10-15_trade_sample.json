@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712437233166,
+  "usIn": 1791712437225583,
+  "usDiff": 7583,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 55,
+        "trade_id": "232081195",
+        "timestamp": 1665806693375,
+        "tick_direction": 2,
+        "price": 0.0005,
+        "mark_price": 0.00070489,
+        "iv": 41.2,
+        "instrument_name": "BTC-16OCT22-18500-P",
+        "index_price": 19213.27,
+        "direction": "sell",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

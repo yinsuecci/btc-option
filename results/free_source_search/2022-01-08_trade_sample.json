@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712384597076,
+  "usIn": 1791712384591653,
+  "usDiff": 5423,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 18,
+        "trade_id": "198316840",
+        "timestamp": 1641618012644,
+        "tick_direction": 0,
+        "price": 0.0265,
+        "mark_price": 0.02680623,
+        "iv": 59.25,
+        "instrument_name": "BTC-9JAN22-41000-C",
+        "index_price": 41896.87,
+        "direction": "sell",
+        "amount": 1.8
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

@@ -1,0 +1,10 @@
+.deps/
+.venv/
+results/archive_before_friday_entry/
+.math-check/
+.piptemp/
+.test-tmp/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+build/

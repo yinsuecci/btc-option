@@ -1,0 +1,26 @@
+{
+  "usOut": 1791712512904611,
+  "usIn": 1791712512896607,
+  "usDiff": 8004,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 294,
+        "trade_id": "275589646",
+        "timestamp": 1702702837667,
+        "tick_direction": 3,
+        "price": 0.0325,
+        "mark_price": 0.03241244,
+        "iv": 43.45,
+        "instrument_name": "BTC-29DEC23-42500-C",
+        "index_price": 42275.78,
+        "direction": "sell",
+        "contracts": 0.1,
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712461949997,
+  "usIn": 1791712461943365,
+  "usDiff": 6632,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 449,
+        "trade_id": "243426592",
+        "timestamp": 1677906046882,
+        "tick_direction": 2,
+        "price": 0.0475,
+        "mark_price": 0.04719555,
+        "iv": 50.62,
+        "instrument_name": "BTC-28APR23-21000-P",
+        "index_price": 22343.3,
+        "direction": "buy",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

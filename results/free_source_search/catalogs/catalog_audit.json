@@ -1,0 +1,148 @@
+[
+  {
+    "name": "kaggle_bitcoin_options",
+    "url": "https://www.kaggle.com/api/v1/datasets/list?search=bitcoin%20options",
+    "http_status": 200,
+    "body_capped": false,
+    "datasets": [
+      {
+        "ref": "debayan31415/polymarket-5-minutes-btc-up-down-data",
+        "title": "Polymarket 5 minutes BTC UP Down data",
+        "totalBytes": 1367543,
+        "lastUpdated": "2026-03-14T07:15:05.02Z"
+      },
+      {
+        "ref": "quartier13/bitcoin-historical-price-1h2017820202",
+        "title": "Bitcoin Historical Price (1H,2017.8-2020.3)",
+        "totalBytes": 1053923,
+        "lastUpdated": "2020-03-26T09:28:59.04Z"
+      },
+      {
+        "ref": "harshadpawar/bitcoinusd-dataset-from-yahoo-finance-1-year",
+        "title": "Bitcoin-USD Dataset from Yahoo Finance (1 Year)",
+        "totalBytes": 12087,
+        "lastUpdated": "2021-10-08T18:14:24.23Z"
+      },
+      {
+        "ref": "bykarantelicom/bykaranteli-crypto-derivatives-data",
+        "title": "ByKaranteli Crypto Derivatives Data (CC0)",
+        "totalBytes": 3753613,
+        "lastUpdated": "2026-09-06T07:11:16.927Z"
+      },
+      {
+        "ref": "techsalerator/new-events-data-in-el-salvador",
+        "title": "New Events Data in El Salvador",
+        "totalBytes": 9785,
+        "lastUpdated": "2024-09-14T04:36:00.047Z"
+      },
+      {
+        "ref": "yanmaksi/btcbusd-1m-2023-09-csv",
+        "title": "\ud83d\udcb9 NEW BITCOIN DataSet for the 2023!",
+        "totalBytes": 30635117,
+        "lastUpdated": "2023-10-03T09:10:56.837Z"
+      }
+    ]
+  },
+  {
+    "name": "kaggle_crypto_options",
+    "url": "https://www.kaggle.com/api/v1/datasets/list?search=crypto%20options",
+    "http_status": 200,
+    "body_capped": false,
+    "datasets": [
+      {
+        "ref": "quartier13/bitcoin-historical-price-1h2017820202",
+        "title": "Bitcoin Historical Price (1H,2017.8-2020.3)",
+        "totalBytes": 1053923,
+        "lastUpdated": "2020-03-26T09:28:59.04Z"
+      },
+      {
+        "ref": "ahsanneural/tech-layoffs-and-hiring-trends-2025-2026",
+        "title": "Tech Layoffs & Hiring Trends 2025-2026",
+        "totalBytes": 7932,
+        "lastUpdated": "2026-02-16T01:05:55.807Z"
+      },
+      {
+        "ref": "eimadevyni/btcusdt-market-lake",
+        "title": "BTCUSDT 2025+ - Crypto Market Lake - HF Mirror",
+        "totalBytes": 7900345383,
+        "lastUpdated": "2026-05-03T16:17:43.16Z"
+      },
+      {
+        "ref": "iamchukwumachukwuma/gamblers-assistant-finding",
+        "title": "gamblers-assistant-finding",
+        "totalBytes": 66410,
+        "lastUpdated": "2025-08-26T14:41:44.687Z"
+      },
+      {
+        "ref": "samnaruto/coinnudge-crypto-market-research-catalog",
+        "title": "CoinNudge Crypto Market Research Catalog",
+        "totalBytes": 8594,
+        "lastUpdated": "2026-09-21T05:30:19.967Z"
+      },
+      {
+        "ref": "roberto85/adausdc-high-frequency-market-microstructure-data",
+        "title": "ADA/USDC High-Frequency Market Microstructure Data",
+        "totalBytes": 13673785,
+        "lastUpdated": "2026-08-27T10:05:07.927Z"
+      },
+      {
+        "ref": "timalex/fintsbridge",
+        "title": "fintsbridge",
+        "totalBytes": 14403938,
+        "lastUpdated": "2025-05-14T06:25:10.91Z"
+      },
+      {
+        "ref": "bykarantelicom/bykaranteli-crypto-derivatives-data",
+        "title": "ByKaranteli Crypto Derivatives Data (CC0)",
+        "totalBytes": 3753613,
+        "lastUpdated": "2026-09-06T07:11:16.927Z"
+      },
+      {
+        "ref": "logiover/bazaraki-scraper-data",
+        "title": "Bazaraki Scraper \u2014 Cyprus Classifieds",
+        "totalBytes": 78228,
+        "lastUpdated": "2026-05-15T12:36:13.403Z"
+      },
+      {
+        "ref": "sowndranayakiunitic/unitic",
+        "title": "unitic",
+        "totalBytes": 87220,
+        "lastUpdated": "2026-01-12T06:18:16.797Z"
+      },
+      {
+        "ref": "ayushprasadhijackyu/private-chipwhisperer",
+        "title": "Private chipwhisperer",
+        "totalBytes": 2673416195,
+        "lastUpdated": "2025-04-24T14:20:54.083Z"
+      }
+    ]
+  },
+  {
+    "name": "hf_deribit_catalog",
+    "url": "https://huggingface.co/api/datasets?search=deribit&limit=30",
+    "http_status": 200,
+    "body_capped": false,
+    "datasets": []
+  },
+  {
+    "name": "hf_azulcoder_metadata",
+    "url": "https://huggingface.co/api/datasets/azulcoder/btc-quant-ticks",
+    "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+    "name": "hf_azulcoder_files",
+    "url": "https://huggingface.co/api/datasets/azulcoder/btc-quant-ticks/tree/main/data?limit=1000",
+    "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+    "name": "mendeley_short_sample",
+    "url": "https://data.mendeley.com/datasets/hfd4b8zfw6/1",
+    "http_status": 200,
+    "body_capped": false
+  },
+  {
+    "name": "uforia_landing",
+    "url": "https://uforia.polynomial.fi/datasets?dataset=option_chain_snapshot",
+    "error": "HTTP Error 503: Service Unavailable"
+  }
+]

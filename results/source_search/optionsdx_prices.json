@@ -1,0 +1,44 @@
+[
+  {
+    "month": "2022-01",
+    "frequency": "End of Day",
+    "variation_id": 1861,
+    "price": 0,
+    "purchasable": true
+  },
+  {
+    "month": "2022-01",
+    "frequency": "30 Minutes",
+    "variation_id": 1860,
+    "price": 5,
+    "purchasable": true
+  },
+  {
+    "month": "2023-01",
+    "frequency": "End of Day",
+    "variation_id": 4318,
+    "price": 0,
+    "purchasable": true
+  },
+  {
+    "month": "2023-01",
+    "frequency": "30 Minutes",
+    "variation_id": 4319,
+    "price": 5,
+    "purchasable": true
+  },
+  {
+    "month": "2024-09",
+    "frequency": "End of Day",
+    "variation_id": 10722,
+    "price": 0,
+    "purchasable": true
+  },
+  {
+    "month": "2024-09",
+    "frequency": "30 Minutes",
+    "variation_id": 10721,
+    "price": 5,
+    "purchasable": true
+  }
+]

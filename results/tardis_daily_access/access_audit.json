@@ -1,0 +1,51 @@
+{
+  "exchange": "DERIBIT",
+  "data_mode": "REAL_ACCESS_CHECK",
+  "checked_at_utc": "2026-10-11 09:48:38.667801+00:00",
+  "requested_start": "2022-01-01",
+  "requested_end": "2026-12-31",
+  "beta": null,
+  "omega": null,
+  "tardis_key_configured": false,
+  "current_btc_options": 930,
+  "sunday_et_expiries": [],
+  "probes": [
+    {
+      "date": "2022-01-01",
+      "status": "SAMPLE_ACCESSIBLE",
+      "columns": [
+        "exchange",
+        "symbol",
+        "timestamp",
+        "local_timestamp",
+        "type",
+        "strike_price",
+        "expiration",
+        "open_interest",
+        "last_price",
+        "bid_price",
+        "bid_amount",
+        "bid_iv",
+        "ask_price",
+        "ask_amount",
+        "ask_iv",
+        "mark_price",
+        "mark_iv",
+        "underlying_index",
+        "underlying_price",
+        "delta",
+        "gamma",
+        "vega",
+        "theta",
+        "rho"
+      ]
+    },
+    {
+      "date": "2022-01-02",
+      "status": "ACCESS_DENIED",
+      "http_status": 401
+    }
+  ],
+  "status": "BLOCKED_FULL_HISTORY_REQUIRED",
+  "warning": "Current snapshots and first-day schema samples are NOT a historical backtest. Native BTC options cannot be passed to the USDT linear engine."
+}

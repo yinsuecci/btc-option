@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712493743058,
+  "usIn": 1791712493734959,
+  "usDiff": 8099,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 16,
+        "trade_id": "264028482",
+        "timestamp": 1693627323407,
+        "tick_direction": 0,
+        "price": 0.002,
+        "mark_price": 0.00171637,
+        "iv": 65.51,
+        "instrument_name": "BTC-24NOV23-14000-P",
+        "index_price": 25792.48,
+        "direction": "buy",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

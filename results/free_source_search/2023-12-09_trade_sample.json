@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712511670228,
+  "usIn": 1791712511659664,
+  "usDiff": 10564,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 241,
+        "trade_id": "274528657",
+        "timestamp": 1702098016119,
+        "tick_direction": 1,
+        "price": 0.021,
+        "mark_price": 0.0208752,
+        "iv": 46.59,
+        "instrument_name": "BTC-22DEC23-46000-C",
+        "index_price": 44256.64,
+        "direction": "buy",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

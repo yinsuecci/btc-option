@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712399393340,
+  "usIn": 1791712399386020,
+  "usDiff": 7320,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 99,
+        "trade_id": "209020840",
+        "timestamp": 1648872003619,
+        "tick_direction": 0,
+        "price": 0.0055,
+        "mark_price": 0.00584405,
+        "iv": 39.75,
+        "instrument_name": "BTC-3APR22-47000-C",
+        "index_price": 46611.41,
+        "direction": "buy",
+        "amount": 1.0
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

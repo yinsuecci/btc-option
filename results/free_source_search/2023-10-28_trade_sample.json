@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712503494611,
+  "usIn": 1791712503487862,
+  "usDiff": 6749,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 132,
+        "trade_id": "269035187",
+        "timestamp": 1698465678877,
+        "tick_direction": 1,
+        "price": 0.0008,
+        "mark_price": 0.0006536,
+        "iv": 34.71,
+        "instrument_name": "BTC-29OCT23-35000-C",
+        "index_price": 34070.49,
+        "direction": "buy",
+        "amount": 3.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

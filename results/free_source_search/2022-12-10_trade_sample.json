@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712447292937,
+  "usIn": 1791712447282956,
+  "usDiff": 9981,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 180,
+        "trade_id": "237527022",
+        "timestamp": 1670648410007,
+        "tick_direction": 0,
+        "price": 0.009,
+        "mark_price": 0.0086292,
+        "iv": 102.75,
+        "instrument_name": "BTC-30JUN23-5000-P",
+        "index_price": 17155.72,
+        "direction": "buy",
+        "amount": 2.5
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

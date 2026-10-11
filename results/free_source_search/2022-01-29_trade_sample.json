@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712388320770,
+  "usIn": 1791712388312444,
+  "usDiff": 8326,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 183,
+        "trade_id": "201496412",
+        "timestamp": 1643432651516,
+        "tick_direction": 3,
+        "price": 0.001,
+        "mark_price": 0.00122758,
+        "iv": 114.19,
+        "instrument_name": "BTC-4FEB22-28000-P",
+        "index_price": 37848.19,
+        "direction": "sell",
+        "amount": 2.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}

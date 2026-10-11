@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2023-04-01",
+    "url": "https://www.okx.com/api/v5/public/market-data-history?module=4&instType=OPTION&dateAggrType=daily&begin=1680307200000&end=1680307200000&instFamilyList=BTC-USD",
+    "http_status": 403
+  },
+  {
+    "date": "2024-01-06",
+    "url": "https://www.okx.com/api/v5/public/market-data-history?module=4&instType=OPTION&dateAggrType=daily&begin=1704499200000&end=1704499200000&instFamilyList=BTC-USD",
+    "http_status": 403
+  },
+  {
+    "date": "2025-04-05",
+    "url": "https://www.okx.com/api/v5/public/market-data-history?module=4&instType=OPTION&dateAggrType=daily&begin=1743811200000&end=1743811200000&instFamilyList=BTC-USD",
+    "http_status": 403
+  }
+]

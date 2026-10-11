@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "btc-weekend-research"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = ["numpy", "pandas", "scipy", "scikit-learn", "matplotlib", "plotly", "pytest", "tzdata", "nautilus_trader==1.231.0"]
+[tool.setuptools]
+py-modules = ["config"]
+[tool.setuptools.packages.find]
+include = ["src*", "scripts*"]

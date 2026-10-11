@@ -1,0 +1,25 @@
+{
+  "usOut": 1791712411690947,
+  "usIn": 1791712411680860,
+  "usDiff": 10087,
+  "testnet": false,
+  "result": {
+    "trades": [
+      {
+        "trade_seq": 92,
+        "trade_id": "217545057",
+        "timestamp": 1654920250198,
+        "tick_direction": 2,
+        "price": 0.0155,
+        "mark_price": 0.01603264,
+        "iv": 60.95,
+        "instrument_name": "BTC-17JUN22-30500-C",
+        "index_price": 29257.72,
+        "direction": "sell",
+        "amount": 0.1
+      }
+    ],
+    "has_more": true
+  },
+  "jsonrpc": "2.0"
+}
